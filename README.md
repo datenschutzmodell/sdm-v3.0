@@ -857,8 +857,6 @@ Ziel der Schwellwert-Analyse ist es festzustellen, ob eine Verarbeitungstätigke
 
 3. Prüfen, ob auf die Verarbeitungstätigkeit Eigenschaften zutreffen, die in der Auflistung von Verarbeitungstätigkeiten mit „voraussichtlich hohem Risiko“ des Working Paper 248 rev. 01[^11] des Europäischen Datenschutzausschusses enthalten sind. Wenn mindestens zwei der Einträge zutreffen, ist in den meisten Fällen davon auszugehen, dass ein voraussichtlich hohes Risiko besteht. Ein hohes Risiko kann allerdings auch bereits dann vorliegen, wenn nur eines der Kriterien erfüllt ist.
 
-[^11]: Dieses Arbeitspapier wurde ursprünglich durch die Vorgängerinstitution des EDSA, die Artikel-29Arbeitsgruppe, und später durch den EDSA mit Bestätigung 1/2018 angenommen. https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236, Stand: 13.10.2017 (Revision 0.1; letzter Aufruf: 01.04.2019)
-
     1. Bewerten oder Einstufen (Scoring)
 
         („Evaluation or scoring“)
@@ -896,6 +894,8 @@ Ziel der Schwellwert-Analyse ist es festzustellen, ob eine Verarbeitungstätigke
         („When the processing in itself prevents data subjects from exercising a right or using a service or a contract“)
         
     (aus: WP 248 der Art. 29 Gruppe, ab Seite 10 f)
+
+[^11]: Dieses Arbeitspapier wurde ursprünglich durch die Vorgängerinstitution des EDSA, die Artikel-29Arbeitsgruppe, und später durch den EDSA mit Bestätigung 1/2018 angenommen. https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236, Stand: 13.10.2017 (Revision 0.1; letzter Aufruf: 01.04.2019)
 
 4. Prüfen, ob Art, Umfang, Umstände oder Zwecke (ErwGr. 76 DS-GVO) der Verarbeitungstätigkeit das Risiko für betroffene Personen erhöhen. Hierfür ist es ratsam, entsprechende Praxiserfahrungen und konkretisierende Gerichtsurteile in die Prüfung eines eventuell bestehenden hohen Risikos einzubeziehen.
 
