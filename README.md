@@ -1106,7 +1106,7 @@ Die Implementierung der empfohlenen Funktionen und der technischen und organisat
 
 Weitere Details zur systematischen Durchführung einer Datenschutz-Folgenabschätzung können dem Kurzpapier Nr. 5 der Datenschutzkonferenz entnommen werden.[^16]
 
-[^16] https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_5.pdf, Stand: 26.04.2018, letzter Aufruf: 01.04.2019.
+[^16]: https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_5.pdf, Stand: 26.04.2018, letzter Aufruf: 01.04.2019.
 
 #### D4.4.2 Do: Implementieren / Protokollieren
 
@@ -1644,4 +1644,3 @@ Die Aufzählung von Maßnahmen in den Bausteinen ist nicht abschließend. Durch 
 Die Verantwortlichen und Auftragsverarbeiter sind verpflichtet, die Besonderheiten ihrer Verarbeitungen zu analysieren, eine Risikobetrachtung durchzuführen und auf diesen Grundlagen zum Zeitpunkt der Festlegung der Mittel für die Verarbeitung sowie zum Zeitpunkt der eigentlichen Verarbeitung geeignete technische und organisatorische Maßnahmen auszuwählen und zu treffen. Es steht ihnen dabei frei, von der Umsetzung von Maßnahmen abzusehen, die unter den konkreten Bedingungen nicht zweckmäßig oder nicht verhältnismäßig sind, und in den Bausteinen aufgeführte Maßnahmen durch andere Maßnahmen gleicher oder ähnlicher Wirkung zu ersetzen. Andererseits kann sich auch die Verpflichtung ergeben, die in den Bausteinen aufgeführten Maßnahmen durch weitere zu ergänzen.
 
 Aufgrund der Natur des Anhangs als Referenzkatalog müssen Anwender des SDM jedoch dokumentieren, ob, inwieweit und warum sie sich entschieden haben, Maßnahmen der Bausteine abweichend von den Empfehlungen des SDM umzusetzen. Sie müssen in diesen Fällen sicherstellen, dass sie mit den abweichenden Maßnahmen ein angemessenes Schutzniveau für die betroffenen Personen gewährleisten.
-
