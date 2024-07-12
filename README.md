@@ -1236,9 +1236,7 @@ Wesentliche Änderungen in den einzelnen Kapiteln:
 
 „Kap. 1 Einleitung“ wurde vollständig überarbeitet; neu ist der ausschließliche Bezug zur DS-GVO.
 
-„Kap. 2 Der Zweck des Standard-Datenschutzmodells“ wurde vollständig überarbeitet; herausgestellt wurde deutlicher als bislang, dass vor dem Einsatz des SDM zur Auswahl und Konfiguration von technischen und organisatorischen Maßnahmen die rechtlichen
-
-Abwägungs- und Erforderlichkeits-Prozesse sowie eine erste Risikoanalyse durchgeführt sein müssen.
+„Kap. 2 Der Zweck des Standard-Datenschutzmodells“ wurde vollständig überarbeitet; herausgestellt wurde deutlicher als bislang, dass vor dem Einsatz des SDM zur Auswahl und Konfiguration von technischen und organisatorischen Maßnahmen die rechtlichen Abwägungs- und Erforderlichkeits-Prozesse sowie eine erste Risikoanalyse durchgeführt sein müssen.
 
 „Kap. 5.5 Weitere abgeleitete Gewährleistungsziele“ wurde ersatzlos gelöscht.
 
