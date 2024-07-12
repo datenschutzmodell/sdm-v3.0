@@ -722,7 +722,7 @@ Aus den Vorgaben der Datenschutz-Grundverordnung ergeben sich unmittelbar die Ko
 
 1. die personenbezogenen **Daten**,
 
-2. die beteiligten technischen **Systeme** **und Dienste** (Hardware, Microservices, Software und Infrastruktur),
+2. die beteiligten technischen **Systeme und Dienste** (Hardware, Microservices, Software und Infrastruktur),
 
 3. die technischen, organisatorischen und personellen **Prozesse** der Verarbeitung von Daten.
 
