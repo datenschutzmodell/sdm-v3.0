@@ -14,7 +14,7 @@ Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Lä
 
 ## Herausgeber
 
-AK Technik der Konferenz der unabhängigen datenschutzaufsichtsbehörden des Bundes und der Länder
+AK Technik der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder
 
 ## Redaktion
 
@@ -30,10 +30,9 @@ Unabhängiges Landeszentrum für Datenschutz Schleswig Holstein
 
 Holstenstraße 98, 24103 Kiel
 
-
 E-Mail: uld32@datenschutzzentrum.de
 
-Tel: 0431 98813 91 
+Tel: 0431 98813 91
 
 ### Leiter des AK Technik
 
@@ -51,7 +50,7 @@ Telefon: 0385 59494 41
 
 Dieses Dokument darf - ohne Rückfrage bei einer Aufsichtsbehörde - kommerziell und nicht kommerziell genutzt, insbesondere vervielfältigt, ausgedruckt, präsentiert, verändert, bearbeitet sowie an Dritte übermittelt oder auch mit eigenen Daten und Daten Anderer zusammengeführt und zu selbständigen neuen Datensätzen verbunden werden, wenn der folgende Quellenvermerk angebracht wird: „Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (Datenschutzkonferenz).“ Veränderungen, Bearbeitungen, neue Gestaltungen oder sonstige Abwandlungen der bereitgestellten Daten sind mit einem Veränderungshinweis im Quellenvermerk zu versehen. Datenlizenz Deutschland - Namensnennung - Version 2.0 (www.govdata.de/dl-de/by-2-0 ).
 
-# Einleitung 
+# Einleitung
 
 Die Europäische Datenschutz-Grundverordnung (2016/679/EU-DS-GVO) ist am 25. Mai 2016 in Kraft getreten und gilt nach einer zweijährigen Übergangsfrist unmittelbar seit dem 25. Mai 2018 in der gesamten Europäischen Union. Die DS-GVO enthält Vorschriften zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten. Sie schützt die Grundrechte und Grundfreiheiten natürlicher Personen und insbesondere deren Recht auf Schutz personenbezogener Daten. In den Artikeln 5, 12, 24, 25 und 32 DS-GVO finden sich grundlegende Anforderungen an die Verarbeitung personenbezogener Daten. Die DS-GVO fordert geeignete technische und organisatorische Maßnahmen, um die Risiken für die Rechte und Freiheiten natürlicher Personen angemessen zu mindern. Das betrifft sowohl Maßnahmen zur Gewährleistung der Rechte Betroffener (Kapitel III DS-GVO) als auch Maßnahmen zur Umsetzung der Datenschutzgrundsätze (Art. 25 Abs. 1 DS-GVO), darunter zur Datenminimierung (Art. 25 Abs. 2 DS-GVO) und zur Gewährleistung der Sicherheit der Verarbeitung (Art. 32 Abs. 1). Das Prinzip des Datenschutzes durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen (Art. 25 DS-GVO) fordert zu einer sehr frühzeitigen Befassung des Verantwortlichen mit datenschutzrechtlichen Vorgaben bereits bei der Planung von Verarbeitungen auf. Die DS-GVO verlangt ein Verfahren zur regelmäßigen Überprüfung, Bewertung und Evaluierung der Wirksamkeit der technischen und organisatorischen Maßnahmen (Art. 24 Abs. 1 Satz 2, Art. 32 Abs. 1 Satz 1 lit. d DS-GVO).
 
@@ -71,9 +70,9 @@ Das hier beschriebene Standard-Datenschutzmodell kann somit in Deutschland und a
 
 Mit dem SDM wird eine Methode bereitgestellt, mit der die Risiken der Rechte und Freiheiten natürlicher Personen, die mit der Verarbeitung personenbezogener Daten zwangsläufig einhergehen, mit Hilfe von geeigneten technischen und organisatorischen Maßnahmen beseitigt oder wenigstens auf ein tragbares Maß reduziert werden können. Für das Erstellen von Datenschutz- und Sicherheitskonzepten sind neben derartigen Methoden und Hilfsmitteln aber auch die langjährigen, individuellen Erfahrungen der handelnden Personen unerlässlich. Aus diesen Erfahrungen resultieren mitunter zwar dem SDM vergleichbare, im Detail aber abgewandelte Methoden zur Minimierung des Risikos. Diese Methoden können in speziellen Anwendungskontexten ihre Berechtigung haben.
 
-# Teil A: Beschreibung des SDM 
+# Teil A: Beschreibung des SDM
 
-## A1 Zweck des SDM 
+## A1 Zweck des SDM
 
 Mit dem Standard-Datenschutzmodell (SDM) wird ein Werkzeug bereitgestellt, mit dem die Auswahl und die kontinuierliche Evaluation technischer und organisatorischer Maßnahmen unterstützt wird, die sicherstellen und den Nachweis dafür erbringen, dass die Verarbeitung personenbezogener Daten nach den Vorgaben der DS-GVO erfolgt. Diese Maßnahmen müssen angemessen und geeignet sein, die Risiken für die Rechte und Freiheiten der von der Verarbeitung betroffenen natürlichen Personen soweit einzudämmen, dass ein dem Risiko angemessenes Schutzniveau gewährleistet wird. Für jede Verarbeitung ist also zu prüfen, ob die personenbezogenen Daten durch eine angemessene Auswahl technischer und organisatorischer Maßnahmen so verarbeitet werden, dass die Rechte der Betroffenen gewahrt bleiben und die Sicherheit der Verarbeitung gewährleistet wird (Kapitel III der DS-GVO und die Bestimmungen zur Sicherheit der Verarbeitung gemäß Art. 24, 25 und 32 DS-GVO). Das SDM systematisiert diese Maßnahmen auf der Basis von Gewährleistungszielen und unterstützt somit die Auswahl geeigneter Maßnahmen. Das SDM dient ausschließlich einer datenschutzrechtlich konformen Gestaltung von Verarbeitungstätigkeiten und formuliert keine Anforderungen, die über das Datenschutzrecht hinausgehen.
 
@@ -89,7 +88,7 @@ Mit der Datenschutz-Folgenabschätzung (DSFA) verpflichtet die DS-GVO die Verant
 
 Das SDM richtet sich sowohl an die Aufsichtsbehörden als auch an die für die Verarbeitung personenbezogener Daten Verantwortlichen. Letztere können mit dem SDM die erforderlichen Funktionen und technischen und organisatorischen Maßnahmen systematisch planen, umsetzen und kontinuierlich überwachen.
 
-## A2 Anwendungsbereich des SDM 
+## A2 Anwendungsbereich des SDM
 
 Die Anwendungsbereiche des Standard-Datenschutzmodells sind Planung, Einführung und Betrieb von Verarbeitungstätigkeiten mit denen personenbezogene Daten verarbeitet werden (personenbezogene Verarbeitungen) sowie deren Prüfung und Beurteilung. Solche Verarbeitungstätigkeiten sind dadurch gekennzeichnet, dass sie sich auf einen konkreten, abgrenzbaren und rechtlich legitimierten Verarbeitungszweck (im öffentlichen Bereich eine Ermächtigungsgrundlage) und auf die diesen Zweck verwirklichenden Geschäftsprozesse gerichtet sind (siehe Kapitel D2).
 
@@ -97,7 +96,7 @@ Die DS-GVO fordert, für jede Verarbeitung personenbezogener Daten technische un
 
 Die Rechtsgrundlage kann konkrete Maßnahmen vorschreiben, die verarbeitungsspezifisch umzusetzen sind, z. B. eine Anonymisierung erhobener personenbezogener Daten, sobald ein bestimmter Zweck der Verarbeitung erreicht wurde. Außerdem kann es Fälle geben, in denen besondere Maßnahmen ergriffen werden müssen, die als Ergebnis einer gesetzlich erforderlichen Interessensabwägung geboten sind, um eine rechtskonforme Verarbeitung zu ermöglichen.
 
-## A3 Struktur des SDM 
+## A3 Struktur des SDM
 
 Das Standard-Datenschutzmodell
 
@@ -105,13 +104,13 @@ Das Standard-Datenschutzmodell
 
 - leitet aus den Gewährleistungszielen systematisch generische Maßnahmen ab, ergänzt um einen Referenzmaßnahmen-Katalog,
 
-- modelliert die Verarbeitungstätigkeit (Geschäftsprozess) mit ihren Komponenten Daten, Systemen und Diensten sowie Teilprozessen, 
+- modelliert die Verarbeitungstätigkeit (Geschäftsprozess) mit ihren Komponenten Daten, Systemen und Diensten sowie Teilprozessen,
 
 - systematisiert die Identifikation der Risiken zur Feststellung des aus der Verarbeitung resultierenden Schutzbedarfs der betroffenen Personen,
 
 - bietet ein Vorgehensmodell für eine Modellierung, Umsetzung und kontinuierliche Kontrolle und Prüfung von Verarbeitungstätigkeiten.
 
-## A4 Funktion der Gewährleistungsziele des SDM 
+## A4 Funktion der Gewährleistungsziele des SDM
 
 Das SDM verwendet zur Systematisierung datenschutzrechtlicher Anforderungen „Gewährleistungsziele“. Die datenschutzrechtlichen Anforderungen zielen auf eine rechtskonforme Verarbeitung, die durch technische und organisatorische Maßnahmen gewährleistet werden muss. Die Gewährleistung besteht darin, das Risiko des Eintretens von Abweichungen von einer rechtskonformen Verarbeitung hinreichend zu mindern. Die zu vermeidenden Abweichungen schließen die unbefugte Verarbeitung durch Dritte und die Nichtdurchführung gebotener Verarbeitungen ein. Die Gewährleistungsziele bündeln und strukturieren die datenschutzrechtlichen Anforderungen und können durch mit ihnen verknüpfte, skalierbare Maßnahmen operationalisiert werden. Auf diese Weise wird die Beeinträchtigung der betroffenen Personen durch die Verarbeitung minimiert und ein wirksamer Schutz betroffener Personen durch die Minderung von Risiken für die Rechte und Freiheiten natürlicher Personen prüfbar sichergestellt.
 
@@ -151,7 +150,7 @@ Der europäische Gesetzgeber hat in der Datenschutz-Grundverordnung das Konzept 
 
 Folgerichtig ist zu konstatieren, dass alle im SDM beschriebenen Anforderungen vollständig aus der DS-GVO abgeleitet sind und sich mit Hilfe der Gewährleistungsziele strukturieren lassen. Das SDM stellt keine über das geltende Datenschutzrecht hinausgehenden Anforderungen. Die Gewährleistungsziele und ihr konkretes Verständnis werden deshalb bei künftigen Änderungen des Datenschutzrechts evaluiert und gegebenenfalls angepasst. Die aufsichtsrechtliche Tätigkeit der Datenschutzaufsichtsbehörden orientiert sich ausschließlich an der DS-GVO. Das im SDM abgebildete Konzept der Gewährleitungsziele fördert den grundrechtsorientierten Datenschutz und unterstützt Verantwortliche und Datenschutzaufsichtsbehörden insbesondere bei der Systematisierung der Anforderungen der DS-GVO (siehe Abschnitt C2).
 
-# Teil B: Anforderungen der DS-GVO 
+# Teil B: Anforderungen der DS-GVO
 
 Mit der DS-GVO wird das Datenschutzrecht europaweit einheitlich geregelt. Die Verordnung ist am 25.05.2016 in Kraft getreten und gilt gemäß Art. 99 Abs. 2 DS-GVO seit dem 25.05.2018 unmittelbar in allen EU-Mitgliedstaaten. Für die nationalen Gesetzgeber wurden durch zahlreiche Spezifizierungsklauseln ergänzende Regelungsbefugnisse geschaffen. Jedoch besteht für die DS-GVO ein grundsätzlicher Anwendungsvorrang vor nationalem Recht. Der Kern der Anforderungen der DS-GVO wird in den Grundsätzen der Verarbeitung personenbezogener Daten gemäß Art. 5 DS-GVO festgehalten, die wiederum den Schutzauftrag aus Art. 8 der Charta der Grundrechte der Europäischen Union aufnehmen.
 
@@ -195,7 +194,7 @@ Aus der rechtlichen Vorgabe der Berücksichtigung der Betroffenenrechte ergeben 
 
 - Unterstützung bei der Wahrnehmung von Betroffenenrechten (Art. 12 Abs. 1 und Abs. 2 DS-GVO,
 
-- Identifizierung und Authentifizierung des Auskunftsersuchenden (Art. 12 Abs. 6 DSGVO),
+- Identifizierung und Authentifizierung des Auskunftsersuchenden (Art. 12 Abs. 6 DS-GVO),
 
 - Berichtigungsmöglichkeiten von Daten (Art. 16 DS-GVO),
 
@@ -217,7 +216,9 @@ Durch die DS-GVO wird der Datenschutz durch Technik stark gefördert. Dieses wir
 
 - Belastbarkeit der Systeme und Dienste (Art. 32 Abs. 1 lit. b DS-GVO),
 
-- Wiederherstellbarkeit der Daten und des Datenzugriffs (Art. 32 Abs. 1 lit. c DS-GVO), - Evaluierbarkeit (Art. 32 Abs. 1 lit. d DS-GVO).
+- Wiederherstellbarkeit der Daten und des Datenzugriffs (Art. 32 Abs. 1 lit. c DS-GVO),
+
+- Evaluierbarkeit (Art. 32 Abs. 1 lit. d DS-GVO).
 
 Gegenüber Aufsichtsbehörden und Betroffenen besteht für Verantwortliche gemäß Art. 33 und 34 DS-GVO eine Meldepflicht bzw. Benachrichtigungspflicht beim Auftreten von Verletzungen des Schutzes personenbezogener Daten (Datenschutzverletzungen). Daraus ergeben sich Anforderungen an einen ordnungsgemäßen Umgang mit Datenpannen. Dies verlangt die Fähigkeiten zur Feststellung von Datenschutzverletzungen (vgl. Erwägungsgrund 87 DS-GVO), Klassifikation von Datenschutzverletzungen, Meldung von Datenschutzverletzungen an Aufsichtsbehörden (Art. 33 DS-GVO) und Benachrichtigung der Betroffenen von Datenschutzverletzungen (Art. 34 DS-GVO). Daraus resultieren die Anforderungen:
 
@@ -235,17 +236,17 @@ Die DS-GVO räumt Aufsichtsbehörden in Art. 58 DS-GVO verschiedene Befugnisse i
 
 Die Reihenfolge der folgenden Abschnitte orientiert sich an der Reihenfolge, in der die Anforderungen in der DS-GVO formuliert sind.
 
-## B1 Zentrale datenschutzrechtliche Anforderungen der DS-GVO 
+## B1 Zentrale datenschutzrechtliche Anforderungen der DS-GVO
 
-### B1.1 Transparenz für Betroffene 
+### B1.1 Transparenz für Betroffene
 
 Der Grundsatz der Transparenz ist in Art. 5 Abs. 1 lit. a DS-GVO festgeschrieben. Er findet sich als tragender Grundsatz des Datenschutzrechts in zahlreichen Regelungen der DS-GVO. Insbesondere die Informations- und Auskunftspflichten gemäß Art. 12 ff. DS-GVO tragen ihm Rechnung. In Art. 12 Abs. 1 S. 1 DS-GVO wird gefordert, dass der Verantwortliche geeignete Maßnahmen trifft, um der betroffenen Person alle Informationen bezüglich der Informationspflichten aus Art. 13 und 14 DS-GVO und alle Mitteilungen gemäß den Art. 15 bis 22 und 34 DS-GVO, die sich auf die Verarbeitung beziehen, in präziser, transparenter, verständlicher und leicht zugänglicher Form in einer klaren und einfachen Sprache zu übermitteln. Die Betroffenen müssen unverzüglich und auf jeden Fall innerhalb eines Monats über den Stand der Bearbeitung und der ergriffenen Maßnahmen bezüglich ihres Antrags gemäß Art. 12 Abs. 3 DS-GVO informiert werden. Die Benachrichtigungspflicht gemäß Art. 34 DS-GVO bei einer Verletzung des Schutzes personenbezogener Daten, einer sogenannten Datenpanne, dient ebenso dem Grundsatz der Transparenz.
 
-### B1.2 Zweckbindung 
+### B1.2 Zweckbindung
 
 Die Verpflichtung, Daten nur für den Zweck zu verarbeiten, zu dem sie erhoben wurden, ist insbesondere den einzelnen Verarbeitungsbefugnissen zu entnehmen, die die Geschäftszwecke, die Forschungszwecke etc. zum Maßstab machen und findet über den Zweckbindungsgrundsatz aus Art. 5 Abs. 1 lit. c DS-GVO Eingang in die Grundverordnung. Eine darauf folgende Verarbeitung für weitere Zwecke muss mit dem ursprünglichen Zweck kompatibel sein und die Umstände der Verarbeitung berücksichtigen (Art. 6 Abs. 4 DS-GVO). Über eine Weiterverarbeitung über den ursprünglichen Zweck hinaus, sind die betroffenen Personen ggfs. zu informieren, die von ihrem unter Umständen bestehenden Widerspruchsrecht Gebrauch machen können.
 
-### B1.3 Datenminimierung 
+### B1.3 Datenminimierung
 
 In einem engen Zusammenhang mit dem Grundsatz der Zweckbindung steht der Grundsatz der Datenminimierung. Der Gesetzgeber fordert, dass personenbezogene Daten dem Zweck angemessen und erheblich sowie auf das für die Zwecke der Verarbeitung notwendige Maß beschränkt sein müssen (Art. 5 Abs. 1 lit. c DS-GVO). Diese grundlegende Anforderung entspricht weitgehend dem aus dem deutschen Recht bekannten Grundprinzip der Datensparsamkeit. Es ist nur bedingt möglich, zwischen den drei Voraussetzungen dem Zweck angemessen, für den Zweck erheblich und für die Zwecke der Verarbeitung auf das notwendige Maß beschränkt zu differenzieren.
 
@@ -263,49 +264,49 @@ Der Grundsatz der Datenminimierung geht davon aus, dass der beste Datenschutz da
 
 Die frühestmögliche Löschung nicht weiter benötigter und damit nicht mehr erforderlicher personenbezogener Daten ist eine solche Maßnahme. Zuvor jedoch können bereits einzelne Datenfelder oder Attribute von bestimmten Formen der Verarbeitung ausgenommen oder die Zahl der Datensätze, auf die eine Funktionalität anwendbar ist, beschränkt werden. Datenfelder, welche die Identifizierung der Betroffenen ermöglichen, können gelöscht oder transformiert (Anonymisierung, Pseudonymisierung) oder ihre Anzeige in Datenmasken unterdrückt werden, so dass sie den handelnden Personen nicht zur Kenntnis gelangen, vorausgesetzt, diese Kenntnis ist für den jeweiligen Verarbeitungszweck entbehrlich.
 
-### B1.4 Richtigkeit 
+### B1.4 Richtigkeit
 
 Art. 5 Abs. 1 lit. d DS-GVO formuliert die Anforderung der Richtigkeit personenbezogener Daten. Dies bedingt, dass die von einer Verarbeitung betroffenen personenbezogenen Daten sachlich richtig und erforderlichenfalls auf dem neusten Stand sein müssen. Um diese Anforderung sicherzustellen, sind gemäß der Vorschrift alle angemessenen Maßnahmen zu treffen, damit personenbezogene Daten, die im Hinblick auf die Zwecke ihrer Verarbeitung unrichtig sind, unverzüglich gelöscht oder berichtig werden.
 
-### B1.5 Speicherbegrenzung 
+### B1.5 Speicherbegrenzung
 
 Der Grundsatz der Speicherbegrenzung wird in Art. 5 Abs. 1 lit. e DS-GVO dahingehend definiert, dass personenbezogene Daten nur so lange in einer Form gespeichert werden, die die Identifizierung der betroffenen Personen ermöglicht, wie es für die Zwecke, für die sie verarbeitet werden, erforderlich ist. Hieraus leitet sich die Notwendigkeit von Maßnahmen der Pseudonymisierung, Anonymisierung bzw. Löschung ab. Darüber hinaus wird eine Ausnahme von diesem Grundsatz formuliert, die sich auf die Verarbeitung personenbezogener Daten ausschließlich für im öffentlichen Interesse liegende Archivzwecke oder für wissenschaftliche und historische Forschungszwecke oder für statistische Zwecke richtet. Allerdings greift diese Ausnahme nur unter dem Vorbehalt, dass geeignete technische und organisatorische Maßnahmen getroffen werden, die von dieser Verordnung zum Schutz der Rechte und Freiheiten der betroffenen Person insbesondere zur Durchsetzung von Zweckbindung und Vertraulichkeit gefordert werden.
 
-### B1.6 Integrität 
+### B1.6 Integrität
 
 Die Anforderung der Integrität ist in Art. 5 Abs. 1 lit. f DS-GVO als Grundsatz für die Verarbeitung von personenbezogenen Daten und in Art. 32 Abs. 1 lit. b DS-GVO angewendet auf Systeme und Dienste als Aspekt der zu gewährleistenden Sicherheit der Datenverarbeitung genannt. So sind u. a. unbefugte Veränderungen und Entfernungen auszuschließen. Personenbezogene Daten dürfen nur in einer Weise verarbeitet werden, die einen Schutz vor unbeabsichtigtem Verlust, unbeabsichtigter Zerstörung oder unbeabsichtigter Schädigung durch geeignete technische und organisatorische Maßnahmen gewährleistet. Es sollen jegliche Veränderungen an den gespeicherten Daten durch unberechtigte Dritte ausgeschlossen oder zumindest so erkennbar gemacht werden, dass sie korrigiert werden können.
 
-### B1.7 Vertraulichkeit 
+### B1.7 Vertraulichkeit
 
 Die Verpflichtung zur Wahrung der Vertraulichkeit personenbezogener Daten ergibt sich aus Art. 5 Abs. 1 lit. f DS-GVO. In Bezug auf die zur Verarbeitung eingesetzten Systeme und Dienste sowie für die Auftragsverarbeiter und die Personen, die dem Verantwortlichen oder dem Auftragsverarbeiter unterstellt sind, ergibt sie sich aus Art. 32 Abs. 1 lit. b DS-GVO. Ferner ergibt sie sich aus der Bindung an die Weisungen des Verantwortlichen (Art. 29, 32 Abs. 4 DS-GVO), einer gesonderten Vertraulichkeitsverpflichtung gemäß Art. 28 Abs. 3 lit. b DS-GVO und ggf. gesetzlichen Verschwiegenheitspflichten. Für Datenschutzbeauftragte ergibt sie sich zudem aus der Geheimhaltungspflicht nach Art. 38 Abs. 5 DS-GVO. Unbefugte dürfen keinen Zugang zu den Daten haben und weder die Daten noch Geräte, mit denen diese verarbeitet werden, benutzen können (Art. 32 Abs. 1 lit. b DS-GVO, siehe auch ErwGr. 39 Satz 12). Eine Verletzung der Vertraulichkeit ist insbesondere dann anzunehmen, wenn eine Verarbeitung personenbezogener Daten unbefugt erfolgt.
 
-### B1.8 Rechenschafts- und Nachweisfähigkeit 
+### B1.8 Rechenschafts- und Nachweisfähigkeit
 
 Art. 5 Abs. 2 DS-GVO verpflichtet den Verantwortlichen zum Nachweis der Einhaltung der in Art. 5 Abs. 1 DS-GVO formulierten Grundsätze zur Verarbeitung personenbezogener Daten. Art. 24 Abs. 1 S. 1 DS-GVO erweitert diese Pflicht für den Verantwortlichen dahingehend, dass der Verantwortliche insgesamt sicherzustellen und den Nachweis dafür zu erbringen hat, dass die Verarbeitung gemäß dieser Verordnung erfolgt. Diese umfassenden Rechenschafts- und Nachweispflichten werden an mehreren Stellen in der DS-GVO konkretisiert. Wenn die Verarbeitung personenbezogener Daten auf der Einwilligung der Betroffenen gründet, so ist der Verantwortliche gemäß Art. 7 Abs. 1 DS-GVO dazu verpflichtet, die Einwilligung der Betroffenen nachweisen zu können. Damit die Verarbeitungstätigkeiten des Verantwortlichen oder Auftragsverarbeiters geprüft werden können, fordert Art. 30 DS-GVO die Anlage eines Verzeichnisses von Verarbeitungstätigkeiten, in dem die einzelnen Verarbeitungstätigkeiten beschrieben werden und Verantwortliche insbesondere den Zweck jeder Verarbeitungstätigkeit angeben müssen. Der Verantwortliche ist darüber hinaus dazu verpflichtet, jede Verletzung des Schutzes personenbezogener Daten für eine etwaige Überprüfung einer Datenschutzaufsichtsbehörde gemäß Art. 33 Abs. 5 DS-GVO zu dokumentieren. Der Verantwortliche muss prüfen, ob seine Verarbeitungstätigkeit wahrscheinlich zu einem hohen Risiko für die Betroffenen führen kann. In diesen Fällen muss der Verantwortliche nachweisen können, dass er eine Datenschutz-Folgenabschätzung gemäß Art. 35 DS-GVO durchgeführt hat.
 
 Gemäß Art. 58 Abs. 1 lit. a und lit. e DS-GVO kann die Aufsichtsbehörde Verantwortliche (und Auftragsverarbeiter) dazu verpflichten, ihr alle zur Erfüllung ihrer Aufgaben erforderlichen Informationen auf Anfrage bereitzustellen. Verantwortliche und Auftragsverarbeiter müssen in der Lage sein, diese Verpflichtungen zu erfüllen. Datenpannen muss der Verantwortliche unter den in Art. 33 DS-GVO geregelten Umständen an die Aufsichtsbehörden melden.
 
-### B1.9 Identifizierung und Authentifizierung 
+### B1.9 Identifizierung und Authentifizierung
 
 Gemäß Art. 12 Abs. 6 DS-GVO kann der Verantwortliche bei begründeten Zweifeln von einer natürlichen Person, die Betroffenenrechte gemäß Art. 15 bis 21 DS-GVO ihm gegenüber ausüben möchte, Informationen anfordern, die zur Bestätigung der Identität der Person erforderlich sind. Daraus ergibt sich die Anforderung, dass der Verantwortliche eine Vorgehensweise zur Authentifizierung von Personen, die die Betroffenenrechte geltend machen, festlegen und umsetzen muss.
 
-### B1.10 Unterstützung bei der Wahrnehmung von Betroffenenrechten 
+### B1.10 Unterstützung bei der Wahrnehmung von Betroffenenrechten
 
 Der Verantwortliche muss Betroffenen gemäß Art. 12 Abs. 2 DS-GVO die Ausübung ihrer Rechte nach Art. 15 bis 22 DS-GVO erleichtern. In jedem Fall müssen Anträge von Betroffenen zur Wahrnehmung ihrer Rechte entgegengenommen und geprüft werden. Maßnahmen zur Umsetzung der Betroffenenrechte müssen ausgewählt und umgesetzt werden.
 
-### B1.11 Berichtigungsmöglichkeit von Daten 
+### B1.11 Berichtigungsmöglichkeit von Daten
 
 Von dem Grundsatz der Richtigkeit der Daten in Art. 5 Abs. 1 lit. d DS-GVO ist rechtlich die Berichtigungsmöglichkeit von Daten zu unterscheiden. Diese Anforderung ergibt sich unmittelbar aus dem in Art. 16 DS-GVO festgeschriebenen Recht des Betroffenen auf unverzügliche Berichtigung ihn betreffender unrichtiger Daten, das auch von Aufsichtsbehörden gemäß Art. 58 Abs. 2 lit. g DS-GVO eingefordert werden kann. Aus diesem Recht korrespondiert für den Verantwortlichen die Pflicht, bei Vorliegen der Voraussetzungen die Berichtigung faktisch durchzuführen und die Berichtigung unverzüglich vorzunehmen. Soweit dies nicht ohne Weiteres zu realisieren ist, hat der Verantwortliche hierfür geeignete Vorgehensweisen festzulegen (Art. 24, 25 Abs. 1 i. V. m. 5 Abs. 1 lit. d DS-GVO).
 
-### B1.12 Löschbarkeit von Daten 
+### B1.12 Löschbarkeit von Daten
 
 Betroffene haben gemäß Art. 17 Abs. 1 DS-GVO das Recht auf Löschen ihrer Daten, sofern die genannten Voraussetzungen erfüllt sind und keine Ausnahme gemäß Art. 17 Abs. 3 DS-GVO vorliegt. Der Verantwortliche ist verpflichtet, die Löschung der Daten unverzüglich vorzunehmen. Die DS-GVO definiert die Löschung nicht. Nicht die Löschungshandlung, sondern deren Ergebnis ist rechtlich entscheidend. Eine datenschutzkonforme Löschung muss dazu führen, dass die Daten nicht mehr verarbeitet werden können. Es muss unverzüglich gelöscht werden. Soweit dies nicht ohne weiteres zu realisieren ist, hat der Verantwortliche hierfür geeignete Vorgehensweisen festzulegen (Art. 24, 25 Abs. 1 i. V. m. 5 Abs. 1 lit. e DS-GVO). Aufsichtsbehörden können gemäß Art. 58 Abs. 2 lit. g DS-GVO die Löschung anordnen.
 
-### B1.13 Einschränkbarkeit der Verarbeitung von Daten 
+### B1.13 Einschränkbarkeit der Verarbeitung von Daten
 
 Art. 18 DS-GVO sieht als Ergänzung der Löschung von Daten die Einschränkung ihrer Verarbeitung als Betroffenenrecht vor. Art. 4 Nr. 3 DS-GVO definiert die Einschränkung der Verarbeitung als Markierung gespeicherter personenbezogener mit dem Ziel, ihre künftige Verarbeitung so einzuschränken, dass sie nur noch unter den in Art. 18 Abs. 2 DS-GVO genannten Bedingungen (mit Einwilligung oder für die dort bestimmten Zwecke) erfolgen. Die Markierung muss eine technische Maßnahme darstellen, durch die faktisch sichergestellt wird, dass die Daten nur noch begrenzt verarbeitet werden können. Die Aufsichtsbehörden können gemäß Art. 58 Abs. 2 lit. g DS-GVO die Einschränkung der Verarbeitung anordnen.
 
-### B1.14 Datenübertragbarkeit 
+### B1.14 Datenübertragbarkeit
 
 Die Datenübertragbarkeit ist ein neu durch die DS-GVO in Art. 20 eingeführtes Betroffenenrecht. Gemäß Art. 20 Abs. 1 DS-GVO hat die betroffene Person das Recht, die betreffenden Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Aus der Vorschrift ergeben sich bereits konkrete Anforderungen, die der zu übermittelnde Datensatz erfüllen muss. Daten gelten als maschinenlesbar, wenn sie in einem Dateiformat vorliegen, das so strukturiert ist, dass Softwareanwendungen die konkreten Daten einfach identifizieren, erkennen und extrahieren können.[^7] Zudem muss das Datenformat „strukturiert“ und „gängig“ sein. In Erwägungsgrund 68 wird ausgeführt, dass das Format „interoperabel“ sein muss. Der Europäische Datenschutzausschuss führt hierzu in dem Arbeitspapier 242 rev. 01[^8] aus, dass die Interoperabilität als das Ziel zu verstehen sei, dass unter anderem mit den Mitteln maschinenlesbarer, strukturierter und gängiger Daten erreicht werden könne. Zum Verständnis der „Interoperabilität“ verweist sie auf Art. 2 lit. a Beschluss Nr. 922/2009/EG, wo dieser Begriff in folgender Weise definiert wird:
 
@@ -315,43 +316,43 @@ Die Datenübertragbarkeit ist ein neu durch die DS-GVO in Art. 20 eingeführtes 
 
 > „Interoperabilität \[ist\] die Fähigkeit verschiedener und unterschiedlicher Organisationen zur Interaktion zum beiderseitigen Nutzen und im Interesse gemeinsamer Ziele; dies schließt den Austausch von Informationen und Wissen zwischen den beteiligten Organisationen durch von ihnen unterstützte Geschäftsprozesse mittels Datenaustausch zwischen ihren jeweiligen IKT-Systemen ein.“
 
-### B1.15 Eingriffsmöglichkeit in Prozesse automatisierter Entscheidungen 
+### B1.15 Eingriffsmöglichkeit in Prozesse automatisierter Entscheidungen
 
 Art. 22 DS-GVO regelt ein zusätzliches Betroffenenrecht bezogen auf automatisierte Verarbeitungen - einschließlich Profiling gemäß Art. 4 Nr. 4 DS-GVO -, die zu rechtsverbindlichen Entscheidungen im Einzelfall führen. Daraus resultiert in bestimmten Fällen gemäß Absatz 3 dieses Artikels, die Pflicht des Verantwortlichen, angemessene Maßnahmen zu treffen, um die Rechte und Freiheiten sowie die berechtigten Interessen der betroffenen Person zu wahren, wozu mindestens das Recht auf Erwirkung des Eingreifens einer Person seitens des Verantwortlichen, auf Darlegung des eigenen Standpunkts und auf Anfechtung der Entscheidung gehört. Das Recht einzugreifen setzt voraus, dass in Prozesse automatisierter Entscheidungen manuell eingegriffen und eine Entscheidung im Einzelfall korrigiert werden kann.
 
-### B1.16 Fehler- und Diskriminierungsfreiheit beim Profiling 
+### B1.16 Fehler- und Diskriminierungsfreiheit beim Profiling
 
 In Erwägungsgrund 71 werden die Anforderungen an den Verarbeitungs- und Bewertungsprozess für das Profiling bezogen auf die Wahrung der Rechte und Freiheiten und der berechtigten Interessen der betroffenen Personen, die Art. 22 Abs. 2 lit. b bzw. a und c DS-GVO i. V. m. Art. 22 Abs. 3 DS-GVO vorsehen, konkretisiert. Es ist eine faire und transparente Verarbeitung zu gewährleisten. Daher sind für das Profiling technische und organisatorische Maßnahmen zu treffen, mit denen in geeigneter Weise sichergestellt wird, dass Faktoren, die zu unrichtigen personenbezogenen Daten oder zu Entscheidungen führen, die die betroffene Person diskriminieren, korrigiert werden und das Risiko von Fehlern minimiert wird. Im Ergebnis soll der Datenverarbeitungsprozess fehler- und diskriminierungsfrei sein.
 
-### B1.17 Datenschutz durch Voreinstellungen 
+### B1.17 Datenschutz durch Voreinstellungen
 
 Art. 25 Abs. 2 DS-GVO sieht eine neue datenschutzrechtliche Verpflichtung des Verantwortlichen zur Umsetzung des Prinzips Datenschutz durch Voreinstellungen (Data Protection by Default) vor. Der Verantwortliche muss geeignete technische und organisatorische Maßnahmen treffen, die sicherstellen, dass durch Voreinstellungen nur personenbezogene Daten, deren Verarbeitung für den jeweiligen bestimmten Verarbeitungszweck erforderlich ist, verarbeitet werden. Hierzu ist nicht nur die Menge der verarbeiteten Daten zu minimieren, sondern auch der Umfang ihrer Verarbeitung, ihre Speicherfrist und ihre Zugänglichkeit. Von den Voreinstellungen kann nur dann in Einzelfällen derart abgewichen werden, dass eine umfassendere Datenverarbeitung vorgenommen bzw. eine breitere Zugänglichkeit ermöglicht werden, wenn Umstände dieser Einzelfälle ein Abweichen erfordern oder die jeweilige betroffene Person ein Abweichen explizit wünscht. Der letztgenannte Fall ist von besonderer Bedeutung, wenn die betroffene Person als Nutzer eines informationstechnischen Systems auf dieses Einfluss nehmen kann und ihr die Möglichkeit eingeräumt wird, Verarbeitungsoptionen zu wählen. Falls umfangreichere Verarbeitungsoptionen zur Verfügung stehen, dürfen sie dann nur durch Betroffene eingeschaltet und aktiviert werden können.
 
-### B1.18 Verfügbarkeit 
+### B1.18 Verfügbarkeit
 
 Der Grundsatz der Verfügbarkeit ist in Art. 5 Abs. 1 lit. e DS-GVO verankert und zudem in Art. 32 Abs. 1 lit. b und c DS-GVO explizit im Kontext der Sicherheit von Datenverarbeitungen aufgenommen. Er gewährleistet die Verfügbarkeit der Daten zu dem jeweiligen Zweck, solange dieser noch besteht. Der Grundsatz kommt auch zum Tragen bei den Informations- und Auskunftspflichten gemäß Art. 13, 14 und 15 DS-GVO gegenüber den Betroffenen. Für die Umsetzung des Rechts auf Datenübertragbarkeit gemäß Art. 20 DS-GVO ist die Anforderung der Verfügbarkeit ebenso Grundvoraussetzung.
 
-### B1.19 Belastbarkeit 
+### B1.19 Belastbarkeit
 
 Art. 32 Abs. 1 lit. b DS-GVO fordert die Belastbarkeit der Systeme und Dienste. Das Ziel der Belastbarkeit ist bisher weder aus dem Datenschutzrecht bekannt, noch ist es ein klassisches Ziel der IT-Sicherheit und wird auch insbesondere im IT-Grundschutzkatalog des BSI nicht als Schutzziel aufgegriffen. In der englischen Fassung wird der Begriff „resilience“ verwendet, der in der deutschen Literatur der Informatik regelmäßig mit „Widerstandsfähigkeit“ oder „Ausfallsicherheit“ übersetzt wird. In diesem Sinne bedeutet er, dass die zur Verarbeitung verwendeten Systeme und Dienste auch unter widrigen Einflüssen, die insbesondere von Dritten herrühren können, die Eigenschaften aufrechterhalten, die eine rechtmäßige Verarbeitung gewährleisten.
 
-### B1.20 Wiederherstellbarkeit 
+### B1.20 Wiederherstellbarkeit
 
 Art. 32 Abs. 1 lit. c DS-GVO fordert zur Gewährleistung der Sicherheit der Verarbeitung, die Fähigkeit, die Verfügbarkeit der personenbezogenen Daten und den Zugang zu ihnen bei einem physischen oder technischen Zwischenfall rasch wiederherzustellen. Darunter sind sowohl gezielte Angriffe zu fassen, als auch Unfälle und unvorhersehbare Ereignisse, die zum Beispiel durch Naturphänomene hervorgerufen werden. Der Schwerpunkt der zu treffenden Maßnahmen liegt auf dem zeitlichen Aspekt der Wiederherstellbarkeit. Die Vorschrift fordert insofern insbesondere eine prozessorientierte Notfallplanung mit zugeordneten Wiederanlaufzeiten. Insofern geht die Wiederherstellbarkeit der Daten und des Datenzugriffs über die allgemein in Art. 32 Abs. 1 lit. b DS-GVO geforderte Verfügbarkeit hinaus. Der Gesetzgeber geht insofern davon aus, dass für das Ziel der raschen Wiederherstellbarkeit nach einem Zwischenfall zusätzliche technische und organisatorische Maßnahmen zu ergreifen sind.
 
-### B1.21 Evaluierbarkeit 
+### B1.21 Evaluierbarkeit
 
 Die in Art. 32 Abs. 1 lit. d DS-GVO geforderte Evaluierung dient nicht unmittelbar, sondern mittelbar dem operativen Datenschutz und der Datensicherheit. Es soll ein Verfahren zur regelmäßigen Überprüfung, Bewertung und Evaluierung der Wirksamkeit der technischen und organisatorischen Maßnahmen zur Gewährleistung der Sicherheit der Verarbeitung entwickelt und umgesetzt werden.
 
-### B1.22 Behebung und Abmilderung von Datenschutzverletzungen 
+### B1.22 Behebung und Abmilderung von Datenschutzverletzungen
 
 Der Verantwortliche muss gemäß Art. 33 Abs. 3 lit. d und 34 Abs. 2 DS-GVO bei Datenschutzverletzungen - im Einklang mit Art. 24 und Art. 32 DS-GVO - technische und organisatorische Maßnahmen umsetzen, die die Datenpanne beheben und eventuelle Folgen für die Betroffenen abmildern.
 
-### B1.23 Angemessene Überwachung der Verarbeitung 
+### B1.23 Angemessene Überwachung der Verarbeitung
 
 Um u. a. eine wirksame Behebung und Abmilderung sicherstellen zu können, können der Verantwortliche und der Auftragsverarbeiter ggf. dazu verpflichtet sein, als technische und organisatorische Maßnahme i. S. d. Art. 32 DS-GVO eine Überwachung der Verarbeitung durchzuführen. Zudem kann mit einer angemessenen Überwachung der Verarbeitung dafür gesorgt werden, dass Datenschutzverletzungen im Sinne des Erwägungsgrunds 87 DS-GVO sofort festgestellt und klassifiziert werden können.
 
-## B2 Einwilligungsmanagement 
+## B2 Einwilligungsmanagement
 
 Eine besondere Rechtsgrundlage stellt die in Art. 6 Abs. 1 lit. a i. V. m. Art. 4 Nr. 11 DS-GVO geregelte Einwilligung dar. Sofern die Zulässigkeit der Datenverarbeitung auf einer wirksamen Einwilligung basieren soll, ergeben sich aus diesen Vorschriften datenschutzrechtliche Anforderungen an das Einwilligungsmanagement, das das vollständige Verfahren der Einholung, der Speicherung, der Dokumentation, des Nachweises sowie der Umsetzung eines Widerrufs der Einwilligung umfasst. Im Einzelnen ist die Einwilligung nur wirksam, wenn
 
@@ -369,58 +370,57 @@ Art. 7 Abs. 3 DS-GVO schreibt fest, dass der Widerruf einer Einwilligung so einf
 
 Insbesondere wenn Einwilligungen über elektronische Kommunikationsmittel eingeholt werden, folgen aus diesen rechtlichen Vorgaben Anforderungen an die Ausgestaltung des Verfahrens.
 
-## B3 Umsetzung aufsichtsbehördlicher Anordnungen 
+## B3 Umsetzung aufsichtsbehördlicher Anordnungen
 
 Art. 58 Abs. 2 lit. f DS-GVO erlaubt Aufsichtsbehörden gegenüber Verantwortlichen die Beschränkung einer Verarbeitung zu verhängen, die dazu führen kann, dass die Verarbeitung nicht in der vorgesehenen Art und Weise fortgesetzt werden darf. Die Beschränkung kann qualitativ oder quantitativ ausgerichtet sein. Als qualitative Beschränkungen können z. B. Anordnungen getroffen werden, dass nur bestimmte Daten oder Daten nur zu bestimmten Zwecken verarbeitet werden dürfen sowie räumliche und zeitliche Verarbeitungsgrenzen festgelegt werden. Als eine quantitative Beschränkung kommt z. B. die Begrenzung von Zugriffsberechtigungen auf Datenbanken in Betracht. Beschränkungen können somit sehr unterschiedlich ausgestattet sein. Aufgrund dieser Vielgestaltigkeit kann nur die recht abstrakte Anforderung der Umsetzbarkeit aufsichtsbehördlicher Maßnahmen formuliert werden.
 
 Art. 58 Abs. 2 lit. j DS-GVO erlaubt Aufsichtsbehörden anzuordnen, dass eine Übermittlung von Daten an Empfänger in Drittländern ausgesetzt wird. Die Umsetzung dieser Anordnung setzt voraus, dass die Empfänger von personenbezogenen Daten lokalisiert werden können und Datenübermittlungen nach dem Kriterium des Empfängerlandes gesteuert werden können.
 
-# Teil C: Systematisierung der Anforderungen der DS-GVO durch die Gewährleistungsziele 
+# Teil C: Systematisierung der Anforderungen der DS-GVO durch die Gewährleistungsziele
 
 Die rechtlichen Normen der DS-GVO lassen sich nicht ohne weiteres technisch und organisatorisch umsetzen. In der datenschutzrechtlichen Beurteilung müssen Juristen und Informatiker deshalb eine gemeinsame Sprache finden, um sicherzugehen, dass diese rechtlichen Anforderungen auch tatsächlich technisch und organisatorisch umgesetzt werden. Hierbei werden sie durch die Gewährleistungsziele unterstützt. Entsprechend ihres Gehalts, ihrer beabsichtigten Wirkung und Zielrichtung werden die Anforderungen (siehe Teil B) den einzelnen Gewährleistungszielen zugeordnet und auf diese Weise strukturiert und gebündelt. Die technische Gestaltung von Verarbeitungstätigkeiten kann sich an diesen auf Umsetzbarkeit hin ausgerichteten Zielen orientieren, so dass die datenschutzrechtlichen Anforderungen über die Gewährleistungsziele in erforderliche technische und organisatorische Maßnahmen transformiert werden können.
 
 Mit dem SDM wird das Ziel verfolgt, Verarbeitungstätigkeiten rechtskonform auszugestalten. Dazu ist es erforderlich, die von der DS-GVO vorgegebenen datenschutzrechtlichen Anforderungen praktisch umzusetzen und somit sowohl die Risiken für die Rechte und Freiheiten natürlicher Personen zu mindern als auch die Sicherheit der Informationsverarbeitung zu gewährleisten. Das übergeordnete Ziel kann nur erreicht werden, wenn bezogen auf die Daten, Systeme und Dienste sowie Prozesse einer Verarbeitungstätigkeit mehrere Anforderungen - teils alternativ, teils kumulativ - durch technische und organisatorische Maßnahmen erfüllt werden. Mit Hilfe der Gewährleistungsziele werden die rechtlichen Anforderungen strukturiert. Der Unterschied zwischen rechtlichen Anforderungen und Gewährleistungszielen liegt vor allem im Grad der Konkretisierung und der Systematisierung.
 
-## C1 Gewährleistungsziele des SDM 
+## C1 Gewährleistungsziele des SDM
 
 Die Funktion der Gewährleistungsziele des SDM wurde im Abschnitt A4 bereits erläutert. Nachfolgend werden die Gewährleistungsziele kurz beschrieben, mit deren Hilfe die Anforderungen der DS-GVO systematisiert werden können (siehe Kapitel C2).
 
-### C1.1 Datenminimierung (Dm) 
+### C1.1 Datenminimierung (Dm)
 
 Das Gewährleistungsziel Datenminimierung erfasst die grundlegende datenschutzrechtliche Anforderung, die Verarbeitung personenbezogener Daten auf das dem Zweck angemessene, erhebliche und notwendige Maß zu beschränken. Die Umsetzung dieses Minimierungsgebots hat einen durchgreifenden Einfluss auf Umfang und Intensität des durch die anderen Gewährleistungsziele bestimmten Schutzprogramms. Datenminimierung konkretisiert und operationalisiert im Verarbeitungsprozess den Grundsatz der Notwendigkeit, der von diesem Prozess insgesamt wie auch von jedem seiner Schritte verlangt, nicht mehr personenbezogene Daten zu verarbeiten, als für das Erreichen des Verarbeitungszwecks benötigt werden (B1.3 Datenminimierung). Das Minimierungsgebot erstreckt sich dabei nicht nur auf die Menge der verarbeiteten Daten, sondern auch auf den Umfang ihrer Verarbeitung, ihre Speicherfrist und ihre Zugänglichkeit. Insbesondere muss sichergestellt werden, dass personenbezogene Daten nur so lange in einer Form gespeichert werden, die die Identifizierung der betroffenen Personen ermöglicht, wie es für den Zweck der Verarbeitung erforderlich ist (B1.5 Speicherbegrenzung). Datenminimierung reicht vom Design der Informationstechnik durch den Hersteller über ihre Konfiguration und Anpassung an die Betriebsbedingungen (B1.17 Datenschutzfreundliche Voreinstellungen) bis zu ihrem Einsatz in den Kernprozessen der Verarbeitung wie auch in den unterstützenden Prozessen zum Beispiel bei der Wartung der verwendeten Systeme.
 
-
-### C1.2 Verfügbarkeit (Vf) 
+### C1.2 Verfügbarkeit (Vf)
 
 Das Gewährleistungsziel Verfügbarkeit bezeichnet die Anforderung, dass der Zugriff auf personenbezogene Daten und ihre Verarbeitung unverzüglich möglich ist und sie ordnungsgemäß im vorgesehenen Prozess verwendet werden können. Dazu müssen sie im Zugriff von Berechtigten liegen und die vorgesehenen Methoden zu deren Verarbeitung müssen auf sie angewendet werden können. Die Verfügbarkeit umfasst die konkrete Auffindbarkeit von Daten z. B. durch Datenmanagement-Systeme, strukturierte Datenbanken und Suchfunktionen und die Fähigkeit der verwendeten technischen Systeme, Daten auch für Menschen angemessen darzustellen (B1.18 Verfügbarkeit). Darüber hinaus müssen zur Umsetzung der Verfügbarkeit Maßnahmen ergriffen werden, die sicherstellen, dass personenbezogene Daten und der Zugang zu ihnen bei einem physischen oder technischen Zwischenfall rasch wiederhergestellt werden können (B1.20 Wiederherstellbarkeit). Es müssen auch Maßnahmen umgesetzt werden, die die Verfügbarkeit der personenbezogenen Daten und der Systeme und Dienste, die diese verarbeiten, garantieren, wenn diese unter einer der Verarbeitung angemessenen zu erwartenden Last stehen und im Falle unerwartet hoher Last sicherstellen, dass der Schutz der personenbezogenen Daten nicht gefährdet ist (B1.19 Belastbarkeit). Sollte in Ausnahmefällen der Schutz personenbezogener Daten bezüglich der Verfügbarkeit dennoch verletzt werden, so ist sicherzustellen, dass Maßnahmen zur Behebung und Abmilderung der Verletzung getroffen werden (B1.22 Behebung und Abmilderung von Datenschutzverletzungen).
 
-### C1.3 Integrität (Ig) 
+### C1.3 Integrität (Ig)
 
 Das Gewährleistungsziel Integrität bezeichnet einerseits die Anforderung, dass informationstechnische Prozesse und Systeme die Spezifikationen kontinuierlich einhalten, die zur Ausübung ihrer zweckbestimmten Funktionen für sie festgelegt wurden (B1.6 Integrität). Integrität bezeichnet andererseits die Eigenschaft, dass die zu verarbeitenden Daten unversehrt (B1.6 Integrität), vollständig, richtig und aktuell (B1.4 Richtigkeit) bleiben. Abweichungen von diesen Eigenschaften müssen ausgeschlossen werden oder zumindest feststellbar sein (B1.23 Angemessene Überwachung der Verarbeitung), damit sie berücksichtigt und korrigiert werden können (B1.22 Behebung und Abmilderung von Datenschutzverletzungen).
 
 Dies gilt auch dann, wenn die unterliegenden Systeme und Dienste unerwartet hoher Last unterliegen (B1.19 Belastbarkeit). Neben dem Aspekt der Fehlerfreiheit muss gerade bei automatisierten Bewertungs- und Entscheidungsprozessen der Aspekt der Diskriminierungsfreiheit gewahrt werden (B1.16 Fehler- und Diskriminierungsfreiheit). Die Faktoren und Eigenschaften eines Bewertungs- oder Entscheidungsprozesses, die potenziell diskriminierende Wirkungen entfalten können, sind a priori im Rahmen der rechtlichen Prüfung festzustellen, bei der Umsetzung zu berücksichtigen und im Betrieb zu überwachen. Dieser Aspekt schlägt sich zum Beispiel durch Maßnahmen zur Bereinigung von Trainingsdaten und der Validierung von Ergebnissen bei der Anwendung von KI-Verfahren nieder.
 
-### C1.4 Vertraulichkeit (Vt) 
+### C1.4 Vertraulichkeit (Vt)
 
 Das Gewährleistungsziel Vertraulichkeit bezeichnet die Anforderung, dass keine unbefugte Person personenbezogene Daten zur Kenntnis nehmen oder nutzen kann (B1.7 Vertraulichkeit). Unbefugte sind nicht nur Dritte außerhalb der verantwortlichen Stelle, sondern auch Beschäftigte von technischen Dienstleistern, die zur Erbringung der Dienstleistung keinen Zugriff zu personenbezogenen Daten benötigen, oder Personen in Organisationseinheiten, die keinerlei inhaltlichen Bezug zu einer Verarbeitungstätigkeit oder zu der jeweiligen betroffenen Person haben. Die Vertraulichkeit personenbezogener Daten ist auch dann sicherzustellen, wenn die unterliegenden Systeme und Dienste unerwartet hoher Last unterliegen (B1.19 Belastbarkeit). Sollte in Ausnahmefällen die Vertraulichkeit dennoch verletzt werden, so ist sicherzustellen, dass Maßnahmen zur Behebung und Abmilderung der einhergehenden Verletzung des Schutzes personenbezogener Daten getroffen werden (B1.22 Behebung und Abmilderung von Datenschutzverletzungen).
 
-### C1.5 Nichtverkettung (Nn) 
+### C1.5 Nichtverkettung (Nn)
 
 Das Gewährleistungsziel Nichtverkettung bezeichnet die Anforderung, dass personenbezogene Daten nicht zusammengeführt, also verkettet, werden. Sie ist insbesondere dann faktisch umzusetzen, wenn die zusammenzuführenden Daten für unterschiedliche Zwecke erhoben wurden (B1.2 Zweckbindung). Je größer und aussagekräftiger Datenbestände sind, umso größer können die Begehrlichkeiten sein, die Daten über die ursprüngliche Rechtsgrundlage hinaus zu nutzen. Rechtlich zulässig sind derartige Weiterverarbeitungen nur unter eng definierten Umständen. Die Nichtverkettung soll durch technische und organisatorische Maßnahmen sichergestellt werden. Neben der Pseudonymisierung sind hierfür auch Maßnahmen geeignet, mit denen die Weiterverarbeitung organisations- bzw. systemseitig getrennt von der Ursprungsverarbeitung geschieht. Der Datenbestand kann bspw. durch Berechtigungssysteme und Reduzierung auf den für den neuen Zweck erforderlichen Umfang angepasst werden.
 
-### C1.6 Transparenz (Tp) 
+### C1.6 Transparenz (Tp)
 
 Das Gewährleistungsziel Transparenz bezeichnet die Anforderung, dass in einem unterschiedlichen Maße sowohl Betroffene (B1.1 Transparenz für Betroffene), als auch die Betreiber von Systemen (B1.23 Angemessene Überwachung der Verarbeitung) sowie zuständige Kontrollinstanzen (B1.8 Rechenschafts- und Nachweisfähigkeit) erkennen können, welche Daten wann und für welchen Zweck bei einer Verarbeitungstätigkeit erhoben und verarbeitet werden, welche Systeme und Prozesse dafür genutzt werden, wohin die Daten zu welchem Zweck fließen und wer die rechtliche Verantwortung für die Daten und Systeme in den verschiedenen Phasen einer Datenverarbeitung besitzt.
 
 Transparenz ist für die Beobachtung und Steuerung von Daten, Prozessen und Systemen von ihrer Entstehung bis zu ihrer Löschung erforderlich und eine Voraussetzung dafür, dass eine Datenverarbeitung rechtskonform betrieben und in diese, soweit erforderlich, von betroffenen Personen informiert eingewilligt werden kann (B2 Einwilligungsmanagement). Transparenz der gesamten Datenverarbeitung und der beteiligten Instanzen kann dazu beitragen, dass insbesondere betroffene Personen und Kontrollinstanzen Mängel erkennen und ggf. entsprechende Änderungen an der Verarbeitung einfordern können.
 
-### C1.7 Intervenierbarkeit (Iv) 
+### C1.7 Intervenierbarkeit (Iv)
 
 Das Gewährleistungsziel Intervenierbarkeit bezeichnet die Anforderung, dass den betroffenen Personen die ihnen zustehenden Rechte auf Benachrichtigung, Auskunft, Berichtigung (B1.11 Berichtigungsmöglichkeit von Daten), Löschung (B1.12 Löschbarkeit von Daten), Einschränkung (B1.13 Einschränkbarkeit der Verarbeitung von Daten), Datenübertragbarkeit (B1.14 Datenübertragbarkeit), Widerspruch und Erwirkung des Eingriffs in automatisierte Einzelentscheidungen (B1.15 Eingriffsmöglichkeit in Prozesse automatisierter Entscheidungen) bei Bestehen der gesetzlichen Voraussetzungen unverzüglich und wirksam gewährt werden (B1.10 Unterstützung bei der Wahrnehmung von Betroffenenrechten) und die verarbeitende Stelle verpflichtet ist, die entsprechenden Maßnahmen umzusetzen. Soweit der Verantwortliche über Informationen verfügt, die es ihm erlauben, die betroffenen Personen zu identifizieren, muss er auch Maßnahmen zur Identifizierung und Authentifizierung der betroffenen Personen, die ihre Rechte wahrnehmen möchten, treffen (B1.9 Identifizierung und Authentifizierung). Zur Umsetzung der Betroffenenrechte und aufsichtsbehördlicher Anordnungen (B3 Umsetzung aufsichtsbehördlicher Anordnungen) sowie der Behebung und Abmilderung von Datenschutzverletzungen (B1.22 Behebung und Abmilderung von Datenschutzverletzungen) müssen die für die Verarbeitungsprozesse Verantwortlichen jederzeit in der Lage sein, in die Datenverarbeitung vom Erheben bis zum Löschen der Daten einzugreifen. Sollte sich die Verarbeitung personenbezogener Daten auf die Einwilligung der betroffenen Person stützen, müssen Maßnahmen ergriffen werden, die sicherstellen, dass die personenbezogenen Daten nur verarbeitet werden, wenn eine Einwilligung der betroffenen Person vorliegt und diese nicht widerrufen wurde (B2 Einwilligungsmanagement).
 
 Für informationstechnische Verarbeitungen, auf die betroffene Personen selbst Zugriff haben (z. B. Anwendungen auf dem Smartphone) und für die unterschiedliche Datenschutzeinstellungen vorgesehen sind, sind durch den Verantwortlichen datenschutzfreundliche Voreinstellungen (Data Protection by Default) festzulegen und weitere Maßnahmen zu treffen. Diese weiteren Maßnahmen müssen die Betroffenen in die Lage versetzen, Konfigurationen differenziert nach den jeweiligen Verarbeitungszwecken selbst vorzunehmen und zu entscheiden, welche Verarbeitungen sie gestatten wollen, die über das erforderliche Minimum hinausgehen (B1.17 Datenschutzfreundliche Voreinstellungen).
 
-## C2 Systematisierung der rechtlichen Anforderungen mit Hilfe der Gewährleistungsziele 
+## C2 Systematisierung der rechtlichen Anforderungen mit Hilfe der Gewährleistungsziele
 
 In der folgenden Tabelle werden alle im Abschnitt B2 aufgeführten datenschutzrechtlichen Anforderungen der DS-GVO den in Abschnitt C2 beschriebenen Gewährleistungszielen des SDM zugeordnet. Diese Zuordnung dient der in Abschnitt A4 erläuterten Systematisierung der Anforderungen der DS-GVO in Bezug auf die technische und organisatorische Ausgestaltung von Verarbeitungstätigkeiten.
 
@@ -442,7 +442,7 @@ In der folgenden Tabelle werden alle im Abschnitt B2 aufgeführten datenschutzre
 | B1.14  | Datenübertragbarkeit (Art. 20 Abs. 1 DS-GVO)  | Intervenierbarkeit  |
 | B1.15  | Eingriffsmöglichkeit in Prozesse automatisierter Entscheidungen (Art. 22 Abs. 3 DS-GVO)  | Intervenierbarkeit  |
 | B1.16  | Fehler- und Diskriminierungsfreiheit beim Profiling (Art. 22 Abs. 3, 4 i. V. m. ErwGr. 71)  | Integrität  |
-| B1.17  | Datenschutzfreundliche Voreinstellungen (Art. 25 Abs. 2 DS-GVO)  | Datenminimierung, Intervenierbarkeit |
+| B1.17  | Datenschutzfreundliche Voreinstellungen (Art. 25 Abs. 2 DS-GVO)  | Datenminimierung, Intervenierbarkeit  |
 | B1.18  | Verfügbarkeit (Art. 32 Abs. 1 lit. b DS-GVO)  | Verfügbarkeit  |
 | B1.19  | Belastbarkeit (Art. 32 Abs. 1 lit. b DS-GVO)  | Verfügbarkeit, Integrität, Vertraulichkeit  |
 | B1.20  | Wiederherstellbarkeit (Art. 32 Abs. 1 lit. b, lit. c DS-GVO)  | Verfügbarkeit  |
@@ -452,9 +452,9 @@ In der folgenden Tabelle werden alle im Abschnitt B2 aufgeführten datenschutzre
 | B2  | Einwilligungsmanagement (Art. 4 Nr. 11, Art. 7 Abs. 4 DS-GVO)  | Transparenz, Intervenierbarkeit  |
 | B3  | Umsetzung aufsichtsbehördlicher Anordnungen (Art. 58 Abs. 2 lit. f und lit. j)  | Intervenierbarkeit  |
 
-# Teil D: Praktische Umsetzung 
+# Teil D: Praktische Umsetzung
 
-## D1 Generische Maßnahmen 
+## D1 Generische Maßnahmen
 
 Für jede der vom SDM zu betrachtenden Komponenten (Daten, Systeme und Dienste sowie Prozesse) werden für jedes der Gewährleistungsziele Referenzmaßnahmen benannt und beschrieben. Für jede der Maßnahmen sind auch die Auswirkungen auf den Erreichungsgrad von anderen, von der Maßnahme nicht direkt betroffene Gewährleistungsziele zu betrachten. So können bestimmte Einzelmaßnahmen zur Erreichung mehrerer Gewährleistungsziele beitragen.
 
@@ -462,7 +462,7 @@ In diesem Abschnitt werden generische technische und organisatorische Maßnahmen
 
 Die Anforderung der DS-GVO an die Evaluierbarkeit (siehe Abschnitt B1.21) ist nicht in einem Gewährleistungsziel im SDM abzubilden, sondern in einem zyklischen Prozess (Datenschutzmanagement-Prozess, siehe das Kap. D4 Datenschutzmanagement mit SDM) umzusetzen. Es wird gefordert, dass die technischen und organisatorischen Maßnahmen nicht lediglich nur einmalig zu implementieren sind, sondern dass sie regelmäßig auf ihre Wirksamkeit zu überprüfen sind. In diesem regelmäßig zu wiederholenden Prozess ist beispielsweise zu prüfen, ob die Maßnahmen noch angemessen sind.
 
-### D1.1 Verfügbarkeit 
+### D1.1 Verfügbarkeit
 
 Typische Maßnahmen zur Gewährleistung der Verfügbarkeit sind:
 
@@ -480,8 +480,7 @@ Typische Maßnahmen zur Gewährleistung der Verfügbarkeit sind:
 
 - Vertretungsregelungen für abwesende Mitarbeitende (B1.18 Verfügbarkeit).
 
-
-### D1.2 Integrität 
+### D1.2 Integrität
 
 Typische Maßnahmen zur Gewährleistung der Integrität oder zur Feststellung von Integritätsverletzungen sind:
 
@@ -505,7 +504,7 @@ Typische Maßnahmen zur Gewährleistung der Integrität oder zur Feststellung vo
 
 - Schutz vor äußeren Einflüssen (Spionage, Hacking) (B1.6 Integrität, B1.19 Belastbarkeit, B1.22 Behebung und Abmilderung von Datenschutzverletzungen).
 
-### D1.3 Vertraulichkeit 
+### D1.3 Vertraulichkeit
 
 Typische Maßnahmen zur Gewährleistung der Vertraulichkeit sind:
 
@@ -525,7 +524,7 @@ Typische Maßnahmen zur Gewährleistung der Vertraulichkeit sind:
 
 - Schutz vor äußeren Einflüssen (Spionage, Hacking) (B1.7 Vertraulichkeit, Belastbarkeit, B1.22 Behebung und Abmilderung von Datenschutzverletzungen).
 
-### D1.4 Nichtverkettung 
+### D1.4 Nichtverkettung
 
 Typische Maßnahmen zur Gewährleistung der Nichtverkettung sind:
 
@@ -545,7 +544,7 @@ Typische Maßnahmen zur Gewährleistung der Nichtverkettung sind:
 
 - geregelte Zweckänderungsverfahren (B1.2 Zweckbindung).
 
-### D1.5 Transparenz 
+### D1.5 Transparenz
 
 Typische Maßnahmen zur Gewährleistung der Transparenz sind:
 
@@ -577,11 +576,13 @@ Typische Maßnahmen zur Gewährleistung der Transparenz sind:
 
 - Bereitstellung von Informationen über die Verarbeitung von personenbezogenen Daten an Betroffene (B1.1 Transparenz für Betroffene).
 
-### D1.6 Intervenierbarkeit 
+### D1.6 Intervenierbarkeit
 
 Typische Maßnahmen zur Gewährleistung der Intervenierbarkeit sind:
 
-- Maßnahmen für differenzierte Einwilligungs-, Rücknahme- sowie Widerspruchsmöglichkeiten (B2 Einwilligungsmanagement), Schaffung notwendiger Datenfelder z. B. für Sperrkennzeichen, Benachrichtigungen, Einwilligungen, Widersprüche, Gegendarstellungen (B1.11 Berichtigungsmöglichkeit von Daten, B1.13 Einschränkbarkeit der Verarbeitung, B1.17 Datenschutz durch Voreinstellungen, B2 Einwilligungsmanagement, B3 Umsetzung aufsichtsbehördlicher Anordnungen),
+- Maßnahmen für differenzierte Einwilligungs-, Rücknahme- sowie Widerspruchsmöglichkeiten (B2 Einwilligungsmanagement),
+
+- Schaffung notwendiger Datenfelder z. B. für Sperrkennzeichen, Benachrichtigungen, Einwilligungen, Widersprüche, Gegendarstellungen (B1.11 Berichtigungsmöglichkeit von Daten, B1.13 Einschränkbarkeit der Verarbeitung, B1.17 Datenschutz durch Voreinstellungen, B2 Einwilligungsmanagement, B3 Umsetzung aufsichtsbehördlicher Anordnungen),
 
 - dokumentierte Bearbeitung von Störungen, Problembearbeitungen und Änderungen an Verarbeitungstätigkeiten sowie an den technischen und organisatorischen Maßnahmen (B1.22 Behebung und Abmilderung von Datenschutzverletzungen, B1.13 Einschränkbarkeit der Verarbeitung, B3 Umsetzung aufsichtsbehördlicher Anordnungen),
 
@@ -599,7 +600,7 @@ Typische Maßnahmen zur Gewährleistung der Intervenierbarkeit sind:
 
 - Bereitstellen von Optionen für Betroffene, um Programme datenschutzgerecht einstellen zu können (B1.10 Unterstützung bei der Wahrnehmung von Betroffenenrechten, B1.17 Datenschutz durch Voreinstellung).
 
-### D1.7 Datenminimierung 
+### D1.7 Datenminimierung
 
 Das Gewährleistungsziel Datenminimierung kann erreicht werden durch:
 
@@ -609,7 +610,7 @@ Das Gewährleistungsziel Datenminimierung kann erreicht werden durch:
 
 - Reduzierung von Möglichkeiten der Kenntnisnahme vorhandener Daten (B1.3 Datenminimierung),
 
-- Festlegung von Voreinstellungen für betroffene Personen, die die Verarbeitung ihrer Daten auf das für den Verarbeitungszweck erforderliche Maß beschränken. B1.17 Datenschutz durch Voreinstellungen),
+- Festlegung von Voreinstellungen für betroffene Personen, die die Verarbeitung ihrer Daten auf das für den Verarbeitungszweck erforderliche Maß beschränken. (B1.17 Datenschutz durch Voreinstellungen),
 
 - Bevorzugung von automatisierten Verarbeitungsprozessen (nicht Entscheidungsprozessen), die eine Kenntnisnahme verarbeiteter Daten entbehrlich machen und die Einflussnahme begrenzen, gegenüber im Dialog gesteuerten Prozessen (B1.3 Datenminimierung),
 
@@ -619,7 +620,7 @@ Das Gewährleistungsziel Datenminimierung kann erreicht werden durch:
 
 - Regelungen zur Kontrolle von Prozessen zur Änderung von Verarbeitungstätigkeiten (B1.3 Datenminimierung).
 
-### D1.8 Gewährleistungsziele als Design-Strategie 
+### D1.8 Gewährleistungsziele als Design-Strategie
 
 Bereits bei der Modellierung von Verarbeitungstätigkeiten müssen für alle Ebenen die Anforderungen des Art. 25 DS-GVO berücksichtigt werden. Der dort formulierte Grundsatz des Datenschutzes durch Technikgestaltung („Data Protection by Design“) und datenschutzfreundlicher Voreinstellungen („Data Protection by Default“) verlangen eine Beachtung operativer Datenschutzanforderungen bereits während der Planungsphase einer Verarbeitung. Demnach sollen technische und organisatorische Maßnahmen nicht erst nachträglich festgelegt und umgesetzt werden, um ggf. nicht-rechtskonforme Funktionalitäten abzustellen. Datenschutzfreundliche Voreinstellungen verlangen auch, dass eine Fachapplikation von vornherein datenschutzkonform konfiguriert werden muss. Diese Grundsätze schließen das Prinzip der Datenminimierung als Design-Strategie ein.
 
@@ -627,7 +628,7 @@ Zur datenschutzgerechten Gestaltung der Funktionen der Verarbeitungstätigkeiten
 
 So verlangt das Gewährleitungsziel **Datenminimierung**, dass nicht mehr und nicht andere Daten erhoben werden als vom Zweck gedeckt sind. Datenschutzfreundliche Voreinstellungen sollen dazu führen, dass standardmäßig nur die personenbezogenen Daten, deren Verarbeitung für den jeweiligen bestimmten Verarbeitungszweck erforderlich ist, verarbeitet werden. Diese Verpflichtung gilt für die Menge der erhobenen personenbezogenen Daten, den Umfang ihrer Verarbeitung, ihre Speicherfrist und ihre Zugänglichkeit (vgl. Art. 25 Abs. 2 DS-GVO). Die Gewährleistungsziele Datenminimierung und **Nichtverkettung** sind schon durch entsprechendes Design der für die Verarbeitung erforderlichen Informationstechnik umsetzbar. Beispielsweise muss der Funktionsumfang einer Fachapplikation allein auf die erforderlichen Funktionen reduziert werden. Zur Umsetzung des Gewährleistungsziels **Intervenierbarkeit** muss sichergestellt werden, dass die Betroffenenrechte tatsächlich von der Fachapplikation und aller weiteren IT-Dienste, die diese Applikation bspw. auf der Ebene der Infrastruktur nutzt, umsetzbar sind. Dies erfordert auch ausgereifte Changemanagement-Prozesse der Organisation. Diese Prozesse sind auch erforderlich, um auf Änderungen der rechtlichen Rahmenbedingungen reagieren zu können oder um neue, datenschutzfreundlichere Techniken in vorhandenen Verarbeitungen einsetzen zu können. Die Umsetzung des Gewährleitungsziels **Transparenz** bedeutet, dass von vornherein darauf geachtet wird, dass alle an Verarbeitungstätigkeiten direkt oder indirekt Beteiligten bzw. von diesen Betroffenen (Verantwortliche, Auftragsverarbeiter, die betroffenen Personen und Aufsichtsbehörden) entsprechend ihrer speziellen Interessen die Verarbeitungstätigkeiten prüfen können.
 
-## D2 Verarbeitungstätigkeiten 
+## D2 Verarbeitungstätigkeiten
 
 Die DS-GVO verwendet „Verarbeitungstätigkeit“ in Art. 30 DS-GVO als zentralen Begriff und definiert den Begriff der „Verarbeitung“ in Art. 4 Abs. 2 DS-GVO:
 
@@ -651,8 +652,7 @@ Die Funktion der vollständigen Dokumentation einer Verarbeitung besteht darin, 
 
 Diese Prüfbilanz bezüglich funktionaler Eigenschaften sowie der getroffenen technischen und organisatorischen Maßnahmen der Verarbeitungstätigkeit muss dann wiederum einer rechtlichen Beurteilung der Rechtskonformität bzw. Ordnungsmäßigkeit insgesamt unterzogen werden können unter der Fragestellung, ob die richtigen Maßnahmen zweckgemäß ausgewählt und mit der erforderlichen Wirksamkeit betrieben werden.
 
-
-### D2.1 Aufbereitung einer Verarbeitungstätigkeit in Vorgänge oder in Phasen eines Datenlebenszyklus 
+### D2.1 Aufbereitung einer Verarbeitungstätigkeit in Vorgänge oder in Phasen eines Datenlebenszyklus
 
 Um eine Verarbeitungstätigkeit datenschutzrechtlich zu untersuchen, wird empfohlen, diese in die relevanten Teilprozesse zu zerlegen. Die Begriffsbestimmung in Artikel 4 Nr. 2 DS-GVO zur „Verarbeitung“ listet nicht abschließend 14 elementare Vorgänge auf, die aneinandergereiht einen möglichen Lebenszyklus einer Verarbeitung eines personenbezogenen Datums wiedergeben: Eine Verarbeitung beginnt mit dem Erhebungszusammenhang, es erfolgt deren Nutzung und sie endet beim Löschen bzw. Vernichten von Daten.
 
@@ -678,9 +678,7 @@ Grundsätzlich gilt, dass jeder der elementaren Vorgänge im Hinblick auf seine 
 
 Diese Liste der Vorgänge ist nicht abschließend. Die DS-GVO nennt darüber hinaus an weiteren Stellen bspw. Archivieren, Profiling, Scoring, Anonymisieren oder Pseudonymisieren als spezifische Verarbeitungsvorgänge. Diese Verarbeitungen sind in der Regel aus Vorgängen dieser neun Gruppen zusammengesetzt. Wenn bei der Zerlegung einer Verarbeitungstätigkeit in die oben aufgeführten Vorgangsgruppen weitere Gruppen bzw. Teilprozesse identifiziert werden, müssen diese ebenfalls betrachtet werden.
 
-Die elementaren Vorgänge können - im Einzelfall auch nur in einer bestimmten Teilauswahl der elementaren Vorgänge - als „Vorgangsreihe“ im Lebenszyklus eines personenbezogenen Datums während seiner Verarbeitung betrachtet werden; hierbei lassen sich zeitlich vier Phasen unterscheiden. Auf die Phase der Kollektion (Vorgangsgruppe 1) folgt die Phase der
-
-Bereithaltung (Vorgangsgruppen 2 bis 3), dann folgt die Phase der Nutzung (Vorgangsgruppen 4 bis 8). Die Phasen der Bereithaltung und der Nutzung eines personenbezogenen Datums können dabei mehrfach und zyklisch durchlaufen werden. Die Phase der Beseitigung (Vorgangsgruppe 9) bildet dann den Abschluss des Lebenszyklus der Verarbeitung eines konkreten personenbezogenen Datums (siehe Abbildung 1).
+Die elementaren Vorgänge können - im Einzelfall auch nur in einer bestimmten Teilauswahl der elementaren Vorgänge - als „Vorgangsreihe“ im Lebenszyklus eines personenbezogenen Datums während seiner Verarbeitung betrachtet werden; hierbei lassen sich zeitlich vier Phasen unterscheiden. Auf die Phase der Kollektion (Vorgangsgruppe 1) folgt die Phase der Bereithaltung (Vorgangsgruppen 2 bis 3), dann folgt die Phase der Nutzung (Vorgangsgruppen 4 bis 8). Die Phasen der Bereithaltung und der Nutzung eines personenbezogenen Datums können dabei mehrfach und zyklisch durchlaufen werden. Die Phase der Beseitigung (Vorgangsgruppe 9) bildet dann den Abschluss des Lebenszyklus der Verarbeitung eines konkreten personenbezogenen Datums (siehe Abbildung 1).
 
 Diese Aufbereitung einer Verarbeitungstätigkeit in ihre einzelnen Vorgangsgruppen und Phasen des Lebenszyklus der personenbezogenen Daten erlaubt es, die datenschutzrechtlichen Anforderungen und Risiken gezielt zu identifizieren und zu untersuchen. Unter Berücksichtigung der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie des Risikos für die Rechte und Freiheiten natürlicher Personen ist zu entscheiden, ob eine vorgangs- und/oder phasen-spezifische Untersuchung einer Verarbeitungstätigkeit erfolgt.
 
@@ -696,17 +694,17 @@ Abbildung 2 stellt die in Art. 4 Nr. 2 und Art. 30 DS-GVO verwendeten Begriffe d
 
 [Taxonomien bzgl. „Verarbeitungen“ (DS-GVO)]: images/2_taxonomie.jpg "Taxonomien bzgl. „Verarbeitungen“ (DS-GVO)"
 
-### D2.2 Ebenen einer Verarbeitung oder Verarbeitungstätigkeit 
+### D2.2 Ebenen einer Verarbeitung oder Verarbeitungstätigkeit
 
 Um eine personenbezogene Verarbeitung vollständig zu erfassen, ist es zweckmäßig, bei der Gestaltung oder Prüfung von Verarbeitungstätigkeiten zumindest drei verschiedene Ebenen der Darstellung wesentlicher Einflussgrößen oder Bestandteile zu unterscheiden. Wesentlich ist das Verständnis, dass eine „Verarbeitungstätigkeit“ bspw. nicht deckungsgleich mit der Verwendung einer bestimmten Technik oder eines bestimmten Fachprogramms ist.
 
 Auf der **Ebene 1** ist eine personenbezogene Verarbeitung im datenschutzrechtlichen Sinne angesiedelt. Diese Verarbeitung findet bspw. im Rahmen eines privatrechtlich agierenden Unternehmens oder einer Behörde, die dem öffentlichen Recht unterliegt, statt, für deren Aktivitäten der Verantwortliche verantwortlich ist. Diese Ebene entspricht dem, was vielfach als ein „Fachverfahren“ und „Geschäftsprozess“ mit einem bestimmten funktionalen Ablauf der Verarbeitungstätigkeit verstanden wird. Auf dieser Ebene des Verständnisses einer Verarbeitung werden die für eine Verarbeitungstätigkeit erforderlichen personenbezogenen Daten sowie die gesetzlichen Anforderungen bestimmt. Der Verantwortliche definiert entsprechende Rollen, Zuständigkeiten und Berechtigungen an den personenbezogenen Daten und bestimmt die zu verwendenden IT-Systeme und Prozesse. Wesentlich für die datenschutzrechtlich angemessen funktionale Gestaltung dieser Ebene ist die **Bestimmung des Zwecks** oder der Zwecke der Verarbeitungstätigkeit.
 
-Auf der **Ebene 2** ist die praktische Umsetzung der Verarbeitung und des Zwecks angesiedelt. Diese umfasst zum einen in der Regel die Rolle der Sachbearbeitung sowie die IT- Applikation(en), die sich genauer auch als „Fachapplikation eines Fachverfahrens“ bezeichnen lässt. Die Sachbearbeitung und die Fachapplikation müssen die funktionalen und (datenschutz-)rechtlichen Anforderungen, denen die Verarbeitung unterliegt, vollständig erfüllen. Die **Fachapplikation muss die Zweckbindung sicherstellen**. Die Verarbeitung in der Fachapplikation muss zusätzliche Daten oder zusätzliche Verarbeitungsformen aus der Ebene 1 ausschließen, selbst wenn sie funktional besonders komfortabel sein mögen. Damit soll das Risiko minimiert werden, dass sie die Zweckbindung unterlaufen oder der Zweck überdehnt wird.
+Auf der **Ebene 2** ist die praktische Umsetzung der Verarbeitung und des Zwecks angesiedelt. Diese umfasst zum einen in der Regel die Rolle der Sachbearbeitung sowie die IT-Applikation(en), die sich genauer auch als „Fachapplikation eines Fachverfahrens“ bezeichnen lässt. Die Sachbearbeitung und die Fachapplikation müssen die funktionalen und (datenschutz-)rechtlichen Anforderungen, denen die Verarbeitung unterliegt, vollständig erfüllen. Die **Fachapplikation muss die Zweckbindung sicherstellen**. Die Verarbeitung in der Fachapplikation muss zusätzliche Daten oder zusätzliche Verarbeitungsformen aus der Ebene 1 ausschließen, selbst wenn sie funktional besonders komfortabel sein mögen. Damit soll das Risiko minimiert werden, dass sie die Zweckbindung unterlaufen oder der Zweck überdehnt wird.
 
 Auf der **Ebene 3** ist die IT-Infrastruktur angesiedelt, die Funktionen bereitstellt, die eine Fachapplikation der Ebene 2 nutzt. Zu dieser Ebene an „technischen Services“ zählen Betriebssysteme, virtuelle Systeme, Datenbanken, Authentifizierungs- und Autorisierungssysteme, Router und Firewalls, Speichersysteme wie SAN oder NAS, CPU-Cluster, sowie die Kommunikationsinfrastruktur einer Organisation wie das Telefon, das LAN oder der Internetzugang. Auch hier gilt, dass diese Systeme innerhalb einer Verarbeitungstätigkeit jeweils so zu gestalten und zu nutzen sind, dass die **Zweckbindung erhalten** bleibt. Damit die Zweckbindung bzw. Zwecktrennung auf dieser Ebene durchgesetzt werden kann, müssen typischerweise technische und organisatorische Maßnahmen getroffen werden.
 
-### D2.3 Zweck 
+### D2.3 Zweck
 
 Ob eine Verarbeitung einem legitim gesetzten Zweck folgt und ob der Zweck der Verarbeitung hinreichend bestimmt ist, muss vor der Anwendung des SDM geklärt sein (siehe Abschnitt D4.2).
 
@@ -716,7 +714,7 @@ Bei der Umsetzung des spezifischen Zwecks einer Verarbeitung hat es sich bewähr
 
 - Es ist auch der Aspekt der **Zweckbindung** zu beachten. Die Zweckbindung einer Verarbeitung muss einerseits durch deren geeignete Funktionalität und durch geeignete Auswahl der zu verarbeitenden Produktions- oder Nutzdaten sichergestellt werden (horizontale Gestaltung). Die Zweckbindung einer Verarbeitung muss aber auch durch eine geeignete Ebenen-übergreifende Gestaltung (siehe Abschnitt D2.1) sichergestellt werden (vertikale Gestaltung). So ist es in der Regel nicht vom Zweck abgedeckt und operativ auch nicht notwendig, dass neben den befugten Sachbearbeitern und deren Vorgesetzte auch noch IT-Administratoren, die beispielsweise auf der Ebene einer Datenbank die Zugriffsrechte verwalten, Kenntnis von den Inhalten der Verarbeitungsdaten nehmen können.
 
-### D2.4 Komponenten einer Verarbeitung oder Verarbeitungstätigkeit 
+### D2.4 Komponenten einer Verarbeitung oder Verarbeitungstätigkeit
 
 Aus den Vorgaben der Datenschutz-Grundverordnung ergeben sich unmittelbar die Komponenten Daten, Systeme und Dienste. Bei der konkreten Modellierung von Verarbeitungstätigkeiten mit Personenbezug ist es jedoch notwendig, die folgenden drei Komponenten zu betrachten:
 
@@ -742,7 +740,7 @@ Für jede Verarbeitungstätigkeit und deren Komponenten, insbesondere für die m
 
 Die Verantwortung für eine Verarbeitung liegt letztlich immer beim Verantwortlichen i. S. d. Art. 4 Abs. 7 DS-GVO.
 
-### D2.5 Überblick über die Modellierungstechniken des SDM („SDM-Würfel“) 
+### D2.5 Überblick über die Modellierungstechniken des SDM („SDM-Würfel“)
 
 In den vorangegangenen Kapiteln wurden verschiedene Modellierungstechniken des SDM eingeführt. In Teil C wurden die Anforderungen der DS-GVO (Teil B) durch 7 Gewährleistungsziele systematisiert. In Kap. D2.1 wurden neun Gruppen von elementaren Vorgängen (Vorgangsgruppen) und vier Phasen eines Datenlebenszyklus eingeführt, anhand derer eine Verarbeitungstätigkeit hinsichtlich ihrer Teilprozesse untersucht werden kann. Kap. D2.2 empfiehlt die Untersuchung einer Verarbeitungstätigkeit auf drei Ebenen. In Kap. D2.4 werden drei Komponenten eingeführt, anhand derer eine Verarbeitung modelliert werden kann.
 
@@ -791,7 +789,7 @@ Bei weniger komplexen Verarbeitungen mit einer geringen oder normalen Risikostuf
 
 Weiterhin wird nicht jede Verarbeitung immer alle neun Vorgangsgruppen umfassen. Generell sollten zwar alle Prüfverpflichtungen, die mit Hilfe des Würfels aus der DS-GVO abgeleitet und adressiert werden, auch analysiert und beurteilt werden. Das bedeutet aber nicht zwingend, dass auch für jeden einzelnen Bereich spezifische Maßnahmen gefordert sind.
 
-## D3 Risiken und Schutzbedarf 
+## D3 Risiken und Schutzbedarf
 
 Die DS-GVO knüpft die Anforderungen an technische und organisatorische Maßnahmen an das mit der Verarbeitung der personenbezogenen Daten verbundene Risiko für die Rechte und Freiheiten betroffener Personen.
 
@@ -811,7 +809,7 @@ Aufgabe des Verantwortlichen ist, diese Risiken zu identifizieren, zu analysiere
 
 Dieses Kapitel D3 gibt Hilfestellungen, um das Datenschutz-Risiko einer Verarbeitungstätigkeit zu bestimmen. Es stellt außerdem den Zusammenhang her zwischen den Risiken durch eine Verarbeitungstätigkeit und dem durch sie hervorgerufenen Schutzbedarf natürlicher Personen bei der Verarbeitung personenbezogener Daten (Art. 1 Abs. 1 DS-GVO) einerseits und dem durch die implementierten Maßnahmen erreichten Schutzniveau bzw. dem Restrisiko einer Verarbeitungstätigkeit andererseits, mit dem Ziel, die Bestimmung geeigneter und angemessener Maßnahmen zu ermöglichen. Die Bestimmung der Höhe des Risikos ist die Voraussetzung dafür, technische und organisatorische Maßnahmen und den notwendigen Grad ihrer Wirksamkeit festlegen zu können, mit denen sich Risiken eliminieren oder zumindest reduzieren lassen und eine Verarbeitung datenschutzkonform erfolgen kann. Grundsätzlich gilt die Regel: Je höher das Risiko, desto umsichtiger muss die Verarbeitungstätigkeit gestaltet sein und desto wirksamer müssen die entsprechenden, konkreten technischen und organisatorische Maßnahmen betrieben, kontrolliert und ggf. verbessert werden.
 
-### D3.1 Risiken für Betroffene 
+### D3.1 Risiken für Betroffene
 
 Ausgangspunkt von Überlegungen zum Risiko ist die Verarbeitungstätigkeit, die aus einem oder mehreren Verarbeitungsvorgängen besteht. Es wird der in Art. 30 DS-GVO eingeführte Begriff „Verarbeitungstätigkeit“ verwendet, denn nach der Definition in Art. 4 Nr. 2 DS-GVO sind Verarbeitungen einzelne Vorgänge oder Vorgangsreihen. Für jede Verarbeitungstätigkeit müssen die in Art. 5 DS-GVO formulierten Grundsätze der Verarbeitung personenbezogener Daten beachtet werden. Das SDM „verdichtet“ diese Grundsätze zu Gewährleistungszielen, die weitere operative Anforderungen der DS-GVO aufnehmen. Jede Verarbeitungstätigkeit erzeugt grundsätzlich Risiken für betroffene Personen durch den Umstand der Verarbeitung personenbezogener Daten allein.
 
@@ -835,9 +833,9 @@ Wenn das Ergebnis der Schwellwert-Analyse ein „voraussichtlich hohes Risiko f�
 
 Die methodisch zentrale Frage zur Gestaltung einer Verarbeitungstätigkeit besteht deshalb darin, wie für eine Verarbeitungstätigkeit die Höhe des Risikos zu bestimmen ist.
 
-### D3.2 Risikobetrachtung 
+### D3.2 Risikobetrachtung
 
-#### D3.2.1 Schwellwert-Analyse 
+#### D3.2.1 Schwellwert-Analyse
 
 Ziel der Schwellwert-Analyse ist es festzustellen, ob eine Verarbeitungstätigkeit voraussichtlich ein hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge hat und somit eine DSFA erfordert. Zur Identifikation eines voraussichtlich „hohen Risikos“ durch eine Verarbeitungstätigkeit wird folgendes Vorgehen vorgeschlagen, wobei die Reihenfolge nicht zwingend eingehalten werden muss:
 
@@ -852,44 +850,44 @@ Ziel der Schwellwert-Analyse ist es festzustellen, ob eine Verarbeitungstätigke
         („Evaluation or scoring“)
 
     2. Automatisierte Entscheidungsfindung mit Rechtswirkung oder ähnlich bedeutsamer Wirkung
-    
+
         („Automated-decicion making with legal or similar significant effect“)
-    
+
     3. Systematische Überwachung
-        
+
         („Systematic monitoring“)
 
     4. Vertrauliche Daten oder höchst persönliche Daten
-    
+
         („Sensitive data or data of a highly personal nature“)
 
     5. Datenverarbeitung in großem Umfang
-    
+
         („Data processed in a large scale“)
 
     6. Abgleichen oder Zusammenführen von Datensätzen
-        
+
         („Matching or combining datasets“)
 
     7. Daten zu schutzbedürftigen Betroffenen
-    
+
         (Data concerning vulnerable data subjects“)
 
     8. Innovative Nutzung oder Anwendung neuer technologischer oder organisatorischer Lösungen
-    
+
         („Innovative use or applying new technological or organisational solutions“)
 
     9. Betroffene werden an der Ausübung ihres Rechts oder der Nutzung einer Dienstleistung bzw. Durchführung eines Vertrages gehindert
-    
+
         („When the processing in itself prevents data subjects from exercising a right or using a service or a contract“)
-        
+
     (aus: WP 248 der Art. 29 Gruppe, ab Seite 10 f)
 
 [^11]: Dieses Arbeitspapier wurde ursprünglich durch die Vorgängerinstitution des EDSA, die Artikel-29-Arbeitsgruppe, und später durch den EDSA mit Bestätigung 1/2018 angenommen. https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236, Stand: 13.10.2017 (Revision 0.1; letzter Aufruf: 01.04.2019)
 
 4. Prüfen, ob Art, Umfang, Umstände oder Zwecke (ErwGr. 76 DS-GVO) der Verarbeitungstätigkeit das Risiko für betroffene Personen erhöhen. Hierfür ist es ratsam, entsprechende Praxiserfahrungen und konkretisierende Gerichtsurteile in die Prüfung eines eventuell bestehenden hohen Risikos einzubeziehen.
 
-#### D3.2.2 Risiko-Identifikation 
+#### D3.2.2 Risiko-Identifikation
 
 Zur Identifikation konkreter Risiken für die Rechte und Freiheiten der betroffenen Personen, die auch durch spezifische Besonderheiten der Verarbeitungstätigkeit entstehen können, bietet es sich an, die folgenden Fragen zu stellen:
 
@@ -903,13 +901,13 @@ Insbesondere bei diesem Schritt kann es vorkommen, dass in Ausnahmefällen Risik
 
 Neben den spezifischen Datenschutz-Risiken einer Verarbeitungstätigkeit selbst sind auch die Risiken der Informationssicherheit zu betrachten. Diese Risiken beziehen sich auf den Schutz der Geschäftsprozesse der Organisation. Zur Bearbeitung dieser Risiken hat sich der IT-Grundschutz des BSI bewährt (https://www.bsi.de). Wesentliche Aspekte von Grundschutz-Maßnahmen betreffen einen geordneten Betrieb, die Sicherstellung der Verfügbarkeit und Integrität der Daten, Systeme und Dienste sowie die Verhinderung eines unbefugten Zugriffs auf Geschäfts-, Produktions- und Personendaten, also die Sicherstellung der Vertraulichkeit. Diese sind Voraussetzungen auch für einen wirksamen Datenschutz. Sehr wichtig ist es, dabei darauf zu achten, dass bei der Abstimmung von Maßnahmen für die Informationssicherheit und den operativen Datenschutz insbesondere jene Schutzmaßnahmen, welche für die IT-Sicherheit betrieben werden, ihrerseits datenschutzkonform eingerichtet sind (z. B. Videoüberwachung zur Objektsicherung, Cloud-Lösungen zum Malwareschutz oder Protokollierung). Hierbei müssen etwaige Konflikte zwischen den Anforderungen des Datenschutzes und der Informationssicherheit aufgelöst werden.
 
-#### D3.2.3 Risikobewertung 
+#### D3.2.3 Risikobewertung
 
 Es ist die Aufgabe des Verantwortlichen und ggfs. des Auftragsverarbeiters, die identifizierten Risiken für die betroffenen Personen zu analysieren und einzustufen. Dabei muss der Verantwortliche bzw. der Auftragsverarbeiter die Schwere und die Eintrittswahrscheinlichkeit der identifizierten Risiken nach objektiven Maßstäben bestimmen und dokumentieren. Aus dieser Bewertung folgt auf Basis einer Risikofunktion (bspw. in Form einer Risikomatrix) die jeweilige Höhe der Risiken (vgl. Kurzpapier Nr. 18 „Risiken für die Rechte und Freiheiten natürlicher Personen“[^12]).
 
 [^12]: https://www.datenschutzkonferenz-online.de/media/kp/dsk_kpnr_18.pdf, Stand: 26.04.2018, letzter Aufruf: 01.04.2019.
 
-### D3.3 Risikohöhe, Schutzbedarfsstufe, Schutzniveau und Restrisiko 
+### D3.3 Risikohöhe, Schutzbedarfsstufe, Schutzniveau und Restrisiko
 
 Der Schutzbedarf einer natürlichen Person bei der Verarbeitung personenbezogener Daten in Bezug auf ihre Rechte und Freiheiten ergibt sich aus dem Risiko, das von der Verarbeitungstätigkeit und deren Eingriffsintensität ausgeht. Die DS-GVO kennt nur die Begriffe „Risiko“ und „hohes Risiko“, wobei „Risiko“ hier als „normales Risiko“ bezeichnet wird. Daneben verwendet die DS-GVO die Formulierung „voraussichtlich nicht zu einem Risiko“ führend (Art. 27 Abs. 2 lit. a und Art. 33 Abs. 1 DS-GVO). Da es vollständig risikolose Verarbeitungen nicht geben kann, wird die Formulierung „nicht zu einem Risiko“ von ihrem Sinn und Zweck ausgehend als „nur zu einem geringen Risiko“ führend verstanden. Erfahrungen aus der Praxis zeigen, dass es solche geringen Risiken gibt, die in der DS-GVO keine gesonderte Erwähnung finden, für die jedoch ebenfalls Maßnahmen zu ergreifen sind. Die Maßnahmen für den normalen Schutzbedarf decken auch solche geringen Risiken ab.
 
@@ -927,7 +925,7 @@ Die Methodik des IT-Grundschutz des BSI nutzt zur Gewährleistung der Informatio
 
 Wegen der unterschiedlichen Zielrichtungen von IT-Grundschutz des BSI (Gewährleistung der Informationssicherheit einer Organisation) und „operativem Datenschutz“ mit Hilfe des SDM (Gewährleistung der Rechte und Freiheiten natürlicher Personen) kann nicht ausgeschlossen werden, dass die Schutzbedarfsfeststellungen nach Grundschutz und nach SDM für dieselbe Verarbeitung unterschiedlich ausfallen. Kommt es zu unterschiedlichen Feststellungsergebnissen, dann sollten entweder die jeweiligen Maßnahmen für den höheren Schutzbedarf umgesetzt werden, oder es sollte im Rahmen einer genaueren Analyse festgestellt werden, was der Grund für die unterschiedlichen Feststellungsergebnisse ist und wie in diesem Fall ein angemessenes Schutzniveau erzielt werden kann. Die datenschutzrechtlichen Anforderungen sind maßgeblich. Diese Analyse- und Entscheidungsprozesse mit ihrer dazugehörigen Beurteilung sind zu dokumentieren. Sowohl bei einer unternehmens- oder organisationsinternen Evaluation bzw. Revision oder während einer datenschutzrechtlichen Prüfung muss nachvollziehbar sein, welche konkreten technischen und organisatorischen Maßnahmen zur Erlangung des erforderlichen Schutzniveaus in Bezug auf die jeweilige Verarbeitungstätigkeit ergriffen wurden.
 
-### D3.4 Bestimmung technischer und organisatorischer Maßnahmen insbesondere bei hohem Risiko 
+### D3.4 Bestimmung technischer und organisatorischer Maßnahmen insbesondere bei hohem Risiko
 
 Grundsätzlich sind Datenverarbeitungsprozesse und damit die Spezifikation der Datenverarbeitung so zu gestalten, dass, wenn möglich, die Verarbeitung ohne Personenbezug erfolgt oder zumindest die Risiken gemindert werden. Wurde beispielsweise als Risiko identifiziert, dass in automatisierten Abrufverfahren hohe Risiken für die Rechte und Freiheiten natürlicher Personen bestehen, weil nicht erforderliche Abrufe nicht technisch unterbunden werden können oder der Datenumfang von Abrufen nicht vom Abrufenden angemessen eingeschränkt werden kann, so besteht eine weitere Möglichkeit zur Risikobeschränkung im Verzicht auf das automatisierte Abrufverfahren und eine ersatzweise Implementierung einer Übermittlung im Einzelfall.
 
@@ -951,11 +949,11 @@ Beim Treffen geeigneter technischer und organisatorischer Maßnahmen ist der Sta
 
 Zu beachten ist, dass neue Risiken durch ergriffene technische und organisatorische Maßnahmen entstehen können. Diese Risiken sind zu bewerten und angemessen zu reduzieren. Als Beispiel kann eine Vollprotokollierung von Mitarbeiter-Handlungen gefordert sein, die zugleich das Risiko birgt, dass durch Auswertungen dieses Protokolls eine unzulässige Leistungs- und Verhaltenskontrolle stattfindet. Wird in diesem Schritt eine Verarbeitung so verändert, dass die getroffenen Maßnahmen zu neuen Risiken, die höher sind als das Ausgangsrisiko, und somit zu einer Erhöhung des Schutzbedarfs betroffener Personen führen, muss die Ausgestaltung der Maßnahmen erneut evaluiert werden. Die oben genannten Strategien sind in einem iterativen Prozess so lange anzuwenden, bis die Ausgestaltung der Maßnahmen ein angemessenes Schutzniveau gewährleistet.
 
-## D4 Datenschutzmanagement mit dem Standard-Datenschutzmodell 
+## D4 Datenschutzmanagement mit dem Standard-Datenschutzmodell
 
 Das Datenschutzmanagement ist eine umfassende Methode, um systematisch alle Anforderungen des Datenschutzrechts in einer Organisation umzusetzen. Im Folgenden wird ein Datenschutzmanagement im Zusammenspiel mit dem SDM näher beschrieben.
 
-### D4.1 Rechtliche Grundlagen des Datenschutzmanagements 
+### D4.1 Rechtliche Grundlagen des Datenschutzmanagements
 
 Der Verantwortliche ist für die Einhaltung der Grundsätze für die Verarbeitung personenbezogener Daten verantwortlich und muss den Nachweis darüber erbringen können. Konkret muss der Verantwortliche gemäß Art. 30 DS-GVO ein Verzeichnis führen, in dem die personenbezogenen Verarbeitungstätigkeiten der Organisationen aufgelistet sind. Zudem muss er bereits zum Zeitpunkt der Festlegung der Mittel geeignete technische und organisatorische Maßnahmen treffen (Art. 25 Abs. 1 DS-GVO - Datenschutz durch Technikgestaltung). Für Verarbeitungstätigkeiten, die ein voraussichtlich hohes Risiko für die Rechte und Freiheiten natürlicher Personen zur Folge haben, muss er gemäß Art. 35 DS-GVO darüber hinaus eine Datenschutz-Folgenabschätzung (DSFA) durchführen. Um zu beurteilen, ob von einer Verarbeitungstätigkeit ein voraussichtlich hohes Risiko ausgeht und demnach die Durchführung einer DSFA erforderlich ist, muss für jede Verarbeitung eine Schwellwertanalyse durchgeführt werden. Auch ohne DSFA müssen geeignete technische und organisatorische Maßnahmen bestimmt und dauerhaft umgesetzt werden, um ein dem Risiko angemessenes Schutzniveau bei jeder Verarbeitung personenbezogener Daten zu gewährleisten. Schließlich muss der Verantwortliche die Umsetzung und die Wirksamkeit der Maßnahmen nachweisen, evaluieren und ggf. verbessern können und auf diese Weise aktuell halten.
 
@@ -963,7 +961,7 @@ Damit der Verantwortliche den detaillierten Anforderungen in Bezug auf die opera
 
 Der DSM-Prozess dient somit einerseits dem Verantwortlichen bei der systematischen Planung, dem dauerhaften Betrieb, der regelmäßigen Überprüfung der Datenschutzkonformität und der Verbesserung von Verarbeitungstätigkeiten (vgl. B1.21 Evaluierbarkeit). Er schafft somit Transparenz für den Verantwortlichen. Andererseits hilft der DSM-Prozess auch den Datenschutzaufsichtsbehörden bei der Beratung von Verantwortlichen und bei der datenschutzrechtlichen Prüfung dieser Verarbeitungstätigkeiten, da die Datenschutzprüfungen der Aufsichtsbehörden in der Regel diesem Prozess-Ablauf entsprechen.
 
-### D4.2 Vorbereitungen 
+### D4.2 Vorbereitungen
 
 Vor dem Start des DSM-Zyklus sind ebenso wie vor der Anwendung des SDM[^13] die folgenden drei Voraussetzungen zu klären:
 
@@ -1025,7 +1023,7 @@ Die rechtliche Betrachtung schafft Klarheit darüber, wie - ausgehend von Art. 5
 
 Ausführlichkeit und Detaillierungsgrad insbesondere der Feststellungen zu den sachlichen Verhältnissen werden von Verarbeitung zu Verarbeitung variieren, ebenso wie der Grad der Formalisierung des Vorgehens von informeller Befragung bis hin zum Einsatz von standardisierten Fragebögen. Eine strukturierte Zusammenfassung der Ergebnisse ist unabhängig davon ebenso üblich wie für die weiteren Schritte unentbehrlich. Die Feststellungen zu den sachlichen Verhältnissen gehen in die Phase 1 „Planen/Spezifizieren/DSFA“ des DSM-Zyklus ein (siehe Abschnitt D4.1.1).
 
-### D4.3 Spezifizieren und Prüfen 
+### D4.3 Spezifizieren und Prüfen
 
 Grundlegende Voraussetzung für ein Spezifizieren (siehe Abschnitt D4.4.1) und ein späteres Prüfen (siehe Abschnitt D4.4.3) ist die Festlegung, wie die Gewährleistungsziele für die betrachtete Datenverarbeitung operationalisiert werden. In Abhängigkeit vom festgestellten Risiko (siehe dazu auch Abschnitt D3) und unter Bezug auf die konkreten rechtlichen Anforderungen sind die aus den jeweiligen Gewährleistungszielen resultierenden Eigenschaften der Verarbeitungstätigkeit qualitativ näher zu bestimmen:
 
@@ -1053,7 +1051,7 @@ Zum Zweiten bildet das Ergebnis der Risikoprüfung bzw. der Datenschutz-Folgenab
 
 Zum Dritten fließt das Ergebnis der Datenschutz-Folgenabschätzung in die Bewertung der Restrisiken ein, die nach Umsetzung der Maßnahmen verbleiben, die mit einem Aufwand ergriffen werden können, der in angemessenem Verhältnis zum Zweck der Verarbeitung steht. Diese Risiken können von dem Interesse Dritter oder Beteiligter abhängen, die Gewährleistungsziele zu verletzen, sei es um Daten der Betroffenen unbefugt zur Kenntnis zu nehmen, um sie für illegitime Zwecke, über das erforderliche Maß hinaus oder in intransparenter Weise zu verarbeiten.
 
-### D4.4 Datenschutzmanagement-Prozess 
+### D4.4 Datenschutzmanagement-Prozess
 
 Ausgehend von den Vorbereitungen (siehe Abschnitt D4.2) kann bestimmt werden, in welcher Ausprägung die Gewährleistungsziele (siehe Abschnitt D4.3) anzuwenden und zu betrachten sind.
 
@@ -1080,7 +1078,7 @@ Die nachfolgende Grafik zeigt den gesamten DSM-Zyklus, in den das SDM eingebunde
 
 Für jede Verarbeitungstätigkeit wird es in der Regel erforderlich sein, den DSM-Zyklus mehrfach zu durchlaufen. Das betrifft insbesondere den Verantwortlichen bei der Planung von Verarbeitungstätigkeiten. So könnte bei der Inbetriebnahme eines Fachverfahrens ein erster Zyklus dessen Testbetrieb betreffen, der zweite Zyklus den Pilotbetrieb und der dritte Zyklus den Wirkbetrieb. Die Häufigkeit der Durchläufe hängt davon ab, wie weit der Verarbeitungskontext an die Erfordernisse des Datenschutzes in der Planungsphase oder im Rahmen eines Prüfprozesses der Aufsichtsbehörde angepasst werden musste.
 
-#### D4.4.1 Plan: Spezifizieren / DSFA / Dokumentieren 
+#### D4.4.1 Plan: Spezifizieren / DSFA / Dokumentieren
 
 In Phase 1 zur Planung einer Verarbeitungstätigkeit mit Personenbezug werden angemessene Maßnahmen bestimmt, durch die die Risiken des Grundrechtseingriffs gemildert, der Schutz personenbezogener Daten sichergestellt und die Einhaltung der Verordnung nachgewiesen werden kann. Um den Nachweis der Wirksamkeit der Maßnahmen erbringen zu können, müssen funktionale Anforderungen (Soll-Werte) festgelegt und dokumentiert werden. Diese werden aus den gesetzlichen Anforderungen (Soll) hergeleitet (siehe Teil B Anforderungen der DS-GVO). Erst dann wird festgelegt, welche Aktivitäten der Programme und Systeme und welche Ereignisse von Prozessen zu protokollieren sind.
 
@@ -1106,7 +1104,7 @@ Beim Vorliegen eines DSFA-Berichts muss der Verantwortliche dessen Ergebnisse be
 
 Bei der Implementierung von Systemen und Programmen ist darauf zu achten, dass anhand von System-Dokumenten und Protokollen die Funktionen der Fachapplikationen und der Schutzvorkehrungen von IT-Systemen und Diensten auf den verschiedenen Ebenen (bspw. Client, Server) überprüft werden können. Das Vorliegen dieser Dokumente und Protokolle (Ist-Werte) ist die Voraussetzung zur Durchführung der Phase 3 des DSM.
 
-#### D4.4.3 Check: Kontrollieren / Prüfen / Beurteilen 
+#### D4.4.3 Check: Kontrollieren / Prüfen / Beurteilen
 
 Der Kern der Anwendung des SDM im DSM-Zyklus besteht darin, die in der Planungsphase bestimmten funktionalen Soll-Werte mit den festgestellten Ist-Werten in Beziehung zu setzen (Phase 3a). Zudem werden die relevanten Referenzmaßnahmen mit den tatsächlich umgesetzten technischen und organisatorischen Maßnahmen verglichen. Abweichungen vom Soll sind danach zu beurteilen, inwieweit sie die Umsetzung der Grundsätze aus Artikel 5 DS-GVO bzw. das Erreichen der Gewährleistungsziele gefährden. In einem Prüfvorgang der Aufsichtsbehörde erlaubt die bis zu diesem Punkt geführte Analyse aus einem Verfehlen der Gewährleistungsziele auf (ggf. sanktionierbare) datenschutzrechtliche Mängel zu schließen.
 
@@ -1118,9 +1116,9 @@ Ausgangspunkt für die datenschutzrechtliche Beurteilung einer Verarbeitungstät
 
 Die in Phase 3b festgestellten Mängel müssen so formuliert sein, dass anschließend konkrete funktionale Maßnahmen getroffen werden können. Diese Beurteilungen als Ergebnisse aus Phase 3 sind vom Verantwortlichen in Phase 4 zu sichten, zu beraten und zu priorisieren. In dieser Phase 4 müssen festgestellte Mängel zu Entscheidungen des Verantwortlichen und daraus resultierenden Anweisungen zu Änderungen von Maßnahmen oder zu neuen Maßnahmen führen, die dann im einen neuen Zyklus zu planen, zu implementieren und zu prüfen sind. Wurden Maßnahmen getroffen, die alle Mängel beseitigen, kann davon ausgegangen werden, dass alle Defizite beseitigt wurden und die Verarbeitungstätigkeit rechtskonform ist.
 
-# Teil E: Organisatorische Rahmenbedingungen 
+# Teil E: Organisatorische Rahmenbedingungen
 
-## E1 Zusammenwirken von SDM und BSI-Grundschutz 
+## E1 Zusammenwirken von SDM und BSI-Grundschutz
 
 Das SDM steht in einer engen Beziehung zur Grundschutzmethodik des Bundesamtes für Sicherheit in der Informationstechnik (BSI). Der vom BSI entwickelte IT-Grundschutz ermöglicht es, durch ein systematisches Vorgehen notwendige Sicherheitsmaßnahmen zu identifizieren und umzusetzen. Die BSI-Standards liefern hierzu bewährte Vorgehensweisen, das IT-Grundschutz-Kompendium konkrete Anforderungen. Bei der Auswahl von Maßnahmen orientiert sich der Grundschutz vorrangig an den aus der IT-Sicherheit bekannten Schutzzielen Verfügbarkeit, Integrität und Vertraulichkeit.
 
@@ -1134,9 +1132,9 @@ Im Rahmen der Modernisierung der Grundschutzmethodik durch das BSI wurde das Ver
 
 BSI-Grundschutz und SDM ergänzen sich somit in idealer Weise und liefern gemeinsam die Informationen, die erforderlich sind, um die Einhaltung der Grundsätze für die Verarbeitung personenbezogener Daten nachweisen zu können (Rechenschaftspflicht gemäß Art. 5 Abs. 2 DS-GVO).
 
-## E2 Betriebskonzept zum Standard-Datenschutzmodell 
+## E2 Betriebskonzept zum Standard-Datenschutzmodell
 
-### E2.1 Einleitung 
+### E2.1 Einleitung
 
 Das Betriebskonzept verfolgt den Zweck, den Anwendern dieses Modells Handlungssicherheit im Umgang zu geben. Das bedeutet zu klären, wer für das SDM einsteht, welche Version die aktuell gültige ist und zu welchem Zeitpunkt welche Version galt und wo diese aktuelle Version beziehbar ist. Das Betriebskonzept regelt drei Aspekte:
 
@@ -1146,9 +1144,9 @@ Das Betriebskonzept verfolgt den Zweck, den Anwendern dieses Modells Handlungssi
 
 - Schaffung von Transparenz hinsichtlich der Veröffentlichung und Weiterentwicklung des Modells.
 
-### E2.2 Auftraggeber, Projektleitung, Anwender 
+### E2.2 Auftraggeber, Projektleitung, Anwender
 
-Der Auftraggeber für die Entwicklung und Pflege des SDM sind die Mitglieder der *Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (Datenschutzkonferenz - DSK).* Die DSK ist die Eigentümerin des SDM, das sowohl die Methodik als auch den Referenzmaßnahmen-Katalog umfasst, und gibt dieses heraus.
+Der Auftraggeber für die Entwicklung und Pflege des SDM sind die Mitglieder der *Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder (Datenschutzkonferenz - DSK)*. Die DSK ist die Eigentümerin des SDM, das sowohl die Methodik als auch den Referenzmaßnahmen-Katalog umfasst, und gibt dieses heraus.
 
 Die Entwicklung und Pflege des SDM geschieht durch den *Arbeitskreis „Technische und organisatorische Datenschutzfragen“* der DSK (AK Technik). Der AK Technik hat die Projektleitung inne.
 
@@ -1169,18 +1167,18 @@ Das Modell wird sowohl im Rahmen der Praxisevaluierung als auch gemäß fachlich
 - Projektmanagement, das umfasst
 
     - Bereitstellung eines Single Point Of Contact (Service Desk);
-    
+
     - Betrieb von CR-Verfolgung;
-    
+
     - Moderation von Diskussionen;
-    
+
     - Verwaltung der nötigen Betriebsmittel (Webseite, Projektplattform);
-    
-    - Öffentlichkeitsarbeit.
 
-## E3 Vorgenommene Änderungen von SDM-Versionen 
+- Öffentlichkeitsarbeit.
 
-### E3.1 Änderungen von V2.0 auf V3.0 (Stand 01.11.2022) 
+## E3 Vorgenommene Änderungen von SDM-Versionen
+
+### E3.1 Änderungen von V2.0 auf V3.0 (Stand 01.11.2022)
 
 **Abschnitt D2.1** „Aufbereitung einer Verarbeitungstätigkeit in Vorgänge oder in Phasen eines Datenlebenszyklus“: Um eine Verarbeitung personenbezogener Daten analysieren oder gestalten zu können, ist geeignetes methodisches Rüstzeug erforderlich. In Abschnitt D2.1 werden dazu 9 Gruppen von Verarbeitungsvorgängen vorgeschlagen, um die in der DS-GVO genannten (mindestens) 14 elementaren Verarbeitungsvorgänge zusammenzufassen.
 
@@ -1194,17 +1192,17 @@ Die Änderungen in den Abschnitten D2.1 und D2.5 hängen inhaltlich eng miteinan
 
 Weitere Änderungen betreffen Verbesserungen der inhaltlichen Konsistenz und der sprachlichen Qualität.
 
-### E3.2 Änderungen von V1.1 auf V2.0 (Stand 5.11.2019) 
+### E3.2 Änderungen von V1.1 auf V2.0 (Stand 5.11.2019)
 
 Die Version SDM 2.0 umfasst nun fünf Teile:
 
-A. - Beschreibung des SDM,
+A - Beschreibung des SDM,
 
-B. - Zusammenstellung der Anforderungen der DS-GVO,
+B - Zusammenstellung der Anforderungen der DS-GVO,
 
-C. - Systematisierung der Anforderungen der DS-GVO durch Gewährleistungsziele,
+C - Systematisierung der Anforderungen der DS-GVO durch Gewährleistungsziele,
 
-D. - Praktische Umsetzung,
+D - Praktische Umsetzung,
 
 E. - Organisatorische Rahmenbedingungen, Betriebskonzept, History, Hinweis auf Referenzmaßnahmen-Katalog.
 
@@ -1220,7 +1218,7 @@ Neu aufgenommen wurde das Kapitel zu „Datenschutzmanagement“. Ein Datenschut
 
 Ein besonderes Augenmerk wurde auf eine konsistentere Nutzung des für die DS-GVO zentralen Begriffs der „Verarbeitungstätigkeit“ (vormals „Verfahren“) gelegt. Während der Begriff „Verarbeitung“ in Art. 4 Abs. 2 DS-GVO definiert ist, wird der Begriff „Verarbeitungstätigkeiten“ in Art. 30 Abs. 1 verwendet. Im SDM V2.0 wird nun als Oberbegriff „Verarbeitungstätigkeit“ genutzt, mit „Verarbeitungen“ (wie bspw. Erheben, Speichern, Abfragen) als Bestandteile. Um derartige Teilprozesse einer Verarbeitungstätigkeit zu bezeichnen, kann auch der Begriff des „Verarbeitungsvorgangs“ verwendet werden.
 
-### E3.3 Änderungen von V1.0 auf V1.1 (Stand 26.4.2018) 
+### E3.3 Änderungen von V1.0 auf V1.1 (Stand 26.4.2018)
 
 Die folgenden Änderungen betreffen den gesamten Text:
 
@@ -1258,7 +1256,7 @@ Kapitel 6.1 gelöscht
 
 Kapitel 6.2 in Kapitel 5 überführt
 
-## E4 Stichwortverzeichnis 
+## E4 Stichwortverzeichnis
 
 AK Technik 67
 
@@ -1582,7 +1580,7 @@ Zweckbindungsgrundsatz 15
 
 Zwecktrennung 41
 
-## E5 Abkürzungsverzeichnis 
+## E5 Abkürzungsverzeichnis
 
 | Abs.  | Absatz  |
 |---|---|
@@ -1621,7 +1619,7 @@ Zwecktrennung 41
 | WP  | Working Paper (der Art.-29-Gruppe)  |
 | z. B.  | zum Beispiel  |
 
-## E6 Anhang Referenzmaßnahmen-Katalog 
+## E6 Anhang Referenzmaßnahmen-Katalog
 
 Der im Anhang enthaltene Referenzmaßnahmen-Katalog ist Bestandteil des SDM. Er enthält die Darstellung von technischen und organisatorischen Maßnahmen, deren Umsetzung zur Erfüllung der in Teil B dargestellten gesetzlichen Anforderungen beiträgt. Die Maßnahmen wurden unter Zugrundelegung typischer Verarbeitungssituationen ausgewählt und thematisch in Bausteinen zusammengefasst. Die Umsetzung der aufgeführten Maßnahmen stellt gute Datenschutzpraxis dar. Sie ist vielfach zweckmäßig und verhältnismäßig.
 
