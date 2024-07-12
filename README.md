@@ -1073,10 +1073,10 @@ Die zum Ende von Phase 3 getroffene Beurteilung kann in der Folge sowohl Grundla
 
 Die nachfolgende Grafik zeigt den gesamten DSM-Zyklus, in den das SDM eingebunden ist.
 
-![Der PDCA-Zyklus des Datenschutzmanagements DSM-Zyklus)als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen]
-*Abbildung 6*: Der PDCA-Zyklus des Datenschutzmanagements DSM-Zyklus)als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen
+![Der PDCA-Zyklus des Datenschutzmanagements (DSM-Zyklus) als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen]
+*Abbildung 6*: Der PDCA-Zyklus des Datenschutzmanagements (DSM-Zyklus) als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen
 
-[Der PDCA-Zyklus des Datenschutzmanagements DSM-Zyklus)als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen]: images/6_pdca.jpg "Der PDCA-Zyklus des Datenschutzmanagements DSM-Zyklus)als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen"
+[Der PDCA-Zyklus des Datenschutzmanagements (DSM-Zyklus) als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen]: images/6_pdca.jpg "Der PDCA-Zyklus des Datenschutzmanagements (DSM-Zyklus) als Rahmen für die Anwendung des Standard-Datenschutzmodells bei Planungs-, Beratungs- und Prüfvorgängen"
 
 Für jede Verarbeitungstätigkeit wird es in der Regel erforderlich sein, den DSM-Zyklus mehrfach zu durchlaufen. Das betrifft insbesondere den Verantwortlichen bei der Planung von Verarbeitungstätigkeiten. So könnte bei der Inbetriebnahme eines Fachverfahrens ein erster Zyklus dessen Testbetrieb betreffen, der zweite Zyklus den Pilotbetrieb und der dritte Zyklus den Wirkbetrieb. Die Häufigkeit der Durchläufe hängt davon ab, wie weit der Verarbeitungskontext an die Erfordernisse des Datenschutzes in der Planungsphase oder im Rahmen eines Prüfprozesses der Aufsichtsbehörde angepasst werden musste.
 
