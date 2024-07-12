@@ -253,9 +253,7 @@ In einem engen Zusammenhang mit dem Grundsatz der Zweckbindung steht der Grundsa
 
 **Erheblich** sind Daten, deren Verarbeitung einen Betrag zur Zweckerreichung leisten. Dieses Merkmal entspricht der Geeignetheit bei der Verhältnismäßigkeitsprüfung.
 
-**Auf das notwendige Maß beschränkt** sind nur die Daten, die zur Erreichung des Zwecks erforderlich sind, ohne deren Verarbeitung der Verarbeitungszweck also nicht erreicht werden kann. Diese Definition ergibt sich auch aus Erwägungsgrund 39. Die Verarbeitung personenbezogener Daten ist demnach nur dann erforderlich, wenn der Zweck der
-
-Verarbeitung nicht in zumutbarer Weise durch andere Mittel erreicht werden kann. Der Eingriff in das Grundrecht auf Datenschutz ist nur zulässig, soweit er auf das geringstmögliche Maß begrenzt ist.
+**Auf das notwendige Maß beschränkt** sind nur die Daten, die zur Erreichung des Zwecks erforderlich sind, ohne deren Verarbeitung der Verarbeitungszweck also nicht erreicht werden kann. Diese Definition ergibt sich auch aus Erwägungsgrund 39. Die Verarbeitung personenbezogener Daten ist demnach nur dann erforderlich, wenn der Zweck der Verarbeitung nicht in zumutbarer Weise durch andere Mittel erreicht werden kann. Der Eingriff in das Grundrecht auf Datenschutz ist nur zulässig, soweit er auf das geringstmögliche Maß begrenzt ist.
 
 Die Erforderlichkeit ist ein allgemeiner Grundsatz des Unionsrechts, der durch den Europäischen Gerichtshof (EuGH) in jahrelanger Rechtsprechung anerkannt und ausgeprägt worden ist. Die Vorgabe, nur erforderliche Daten zu verarbeiten, wird in der DS-GVO von dem Grundsatz der Datenminimierung (Art. 5 Abs. 1 lit. b DS-GVO) erfasst. Sie wird zudem als Voraussetzung unmittelbar in den Erlaubnisvorschriften gemäß Art. 6 Abs. 1 S. 1 lit. b bis f und Art. 9 Abs. 2 lit. b, c, f bis j DS-GVO gefordert.
 
