@@ -545,8 +545,6 @@ Typische Maßnahmen zur Gewährleistung der Nichtverkettung sind:
 
 - geregelte Zweckänderungsverfahren (B1.2 Zweckbindung).
 
-
-
 ### D1.5 Transparenz 
 
 Typische Maßnahmen zur Gewährleistung der Transparenz sind:
